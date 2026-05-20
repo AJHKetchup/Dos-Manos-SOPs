@@ -10,7 +10,11 @@ Use these files first:
 
 1. `source/Program-Overview.md` - final program outline for strategy, terminology, compensation concepts, stages, and operating logic.
 2. `source/Execution-Package-Plan.md` - build order and acceptance standards for the execution package.
-3. `AGENTS.md` - repo-level drafting rules for agents working on the program.
+3. `source/Company-Facts.md` - Dos Manos company context, systems, market facts, brand positioning, referral program facts, and financial planning context.
+4. `source/Rollout-Answers.md` - working rollout defaults for authority, payroll, Supermove, QuickBooks, claims, compliance, referral, territory, and formal-location decisions.
+5. `source/Remaining-Completion-Questions.md` - final unanswered questions needed before live-use completion.
+6. `source/Research-Notes.md` - research-backed drafting inputs for communication, persuasion, service recovery, reviews, and safety.
+7. `AGENTS.md` - repo-level drafting rules for agents working on the program.
 
 ## Execution package build order
 
@@ -21,6 +25,12 @@ Use these files first:
 5. Operator Performance Tracker
 6. Territory Assignment and Launch Packet
 7. Formal Location Readiness Packet
+
+## Current execution package
+
+The working Markdown package is in `execution-package/`.
+
+Start with `execution-package/README.md`. It contains the rollout sequence, decision rights, professional review queue, completion status, open information needed before rollout, and links to each execution document.
 
 ## Working principle
 
