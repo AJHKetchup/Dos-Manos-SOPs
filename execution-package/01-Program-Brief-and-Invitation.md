@@ -1,6 +1,6 @@
 # Program Brief and Invitation
 
-Working draft for candidate-facing use and internal alignment.
+Company distribution version for participant communication and management alignment.
 
 Use with:
 
@@ -8,7 +8,7 @@ Use with:
 - `03-Revenue-Share-and-Lead-Attribution-Policy.md` before discussing payment details.
 - `04-Operator-Playbook.md` once the participant is accepted.
 
-Internal approval: Bryan Abrego gives final approval before candidate-facing use. Alex Heinz may support candidate-facing language, program documentation, and administrative setup where assigned. Bryan is CEO and final operating authority unless he delegates authority in writing.
+Approval authority: Bryan Abrego gives final approval before participant communication use. Alex Heinz may support participant communication language, program documentation, and administrative setup where assigned. Bryan Abrego is CEO and final operating authority unless he delegates authority in writing.
 
 ## Program Purpose
 
@@ -60,7 +60,7 @@ During the Operator Track, the participant works on:
 - Booking jobs.
 - Speaking with customers.
 - Basic estimating.
-- Following pricing guidelines.
+- Following the Dos Manos Pricing Policy.
 - Using Supermove or the approved Dos Manos reporting process.
 - Tracking leads.
 - Following up with customers.
@@ -76,7 +76,7 @@ After a participant proves the basics and Dos Manos is prepared to expand or adv
 
 At that stage, the participant becomes a Territory Operator. The Territory Operator helps build local demand, local referral relationships, customer reviews, crew consistency, and local reputation in that market.
 
-The territory is still operated under the Dos Manos central system. Dos Manos continues to control brand standards, pricing guidelines, Supermove, dispatch, billing and collections, insurance, payroll and compensation processing, customer escalation, claims oversight, marketing standards, and final job approval where needed.
+The territory is still operated under the Dos Manos central system. Dos Manos continues to control brand standards, the Dos Manos Pricing Policy, Supermove, dispatch, billing and collections, insurance, payroll and compensation processing, customer escalation, claims oversight, marketing standards, and final job approval where needed.
 
 ## Advertised Location Concept
 
@@ -122,14 +122,14 @@ Participants are paid normally for field work they perform.
 
 In addition, participants may receive 10% of collected revenue on approved jobs.
 
-Future compensation arrangements may change based on role, stage, territory, location maturity, and company policy. Revenue-share payment timing may vary by company process and may use next payroll, month-end, scheduled accounting run, or another Bryan-approved payout cycle.
+Future compensation arrangements may change based on role, stage, territory, location maturity, and company policy. Revenue-share payment timing may vary by company process and may use next payroll, month-end, scheduled accounting run, or another CEO-approved payout cycle.
 
 ## Approved Jobs During The Operator Track
 
 At the Operator Track stage, an approved job is a job that:
 
 - The participant personally brings in or books.
-- Follows Dos Manos pricing guidelines.
+- Follows the Dos Manos Pricing Policy.
 - Follows Dos Manos service standards.
 - Is entered into Supermove or reported through the approved Dos Manos process.
 - Is completed under the Dos Manos brand.
@@ -154,7 +154,7 @@ Before Dos Manos considers territory assignment, the participant and the company
 - Referral activity.
 - Trustworthiness with customers, crews, and company information.
 - Commitment to the Dos Manos quality-over-cheap-pricing position.
-- Bryan's confidence that the participant can represent Dos Manos locally.
+- Bryan Abrego's confidence that the participant can represent Dos Manos locally.
 - Company readiness to support the territory with tracking, crews, trucks, dispatch, billing, claims handling, and service quality.
 
 Revenue matters, but revenue alone is not enough.
@@ -194,7 +194,7 @@ Do not say:
 
 Better:
 
-- "Territory assignment is possible after documented performance, judgment, trust, company readiness, and Bryan approval."
+- "Territory assignment is possible after documented performance, judgment, trust, company readiness, and Bryan Abrego approval."
 - "The current structure may pay 10% of collected revenue on approved jobs."
 - "Any future location-level opportunity would require separate review, approval, and documentation."
 
@@ -247,9 +247,9 @@ Candidates should sign an acknowledgment before starting the Operator Track.
 | --- | --- | --- |
 |  |  |  |
 
-## Internal Acceptance Check
+## Distribution Readiness Check
 
-Before using this brief, management should confirm:
+Before distribution, management confirms:
 
 - The candidate can understand how they start.
 - The candidate can understand how advancement works.
@@ -258,14 +258,14 @@ Before using this brief, management should confirm:
 - The brief uses Dos Manos terminology consistently.
 - Any candidate who wants to proceed is routed into the Candidate Selection Form before starting.
 
-## Final Review Items
+## Professional Review Requirements
 
-- Have counsel review candidate-facing language so it does not imply a franchise offer, ownership promise, or guaranteed economic right.
-- Have counsel review the candidate acknowledgment before use as a signed document.
+- Have counsel review participant communication language so it does not imply a franchise offer, ownership promise, or guaranteed economic right.
+- Have counsel review the candidate acknowledgment before implementation as a signed document.
 - Have payroll/accounting confirm how the 10% revenue share will be classified and paid.
-- Have management confirm whether this document should include any state-specific employment notice language before use.
+- Have management confirm whether this document should include any state-specific employment notice language before implementation.
 
-Research notes:
+References:
 
 - FTC Franchise Rule, for review of language that could create franchise concerns: https://www.ftc.gov/legal-library/browse/rules/franchise-rule
 - U.S. Department of Labor bonus and overtime guidance, for payroll review of incentive compensation: https://www.dol.gov/agencies/whd/fact-sheets/56c-bonuses

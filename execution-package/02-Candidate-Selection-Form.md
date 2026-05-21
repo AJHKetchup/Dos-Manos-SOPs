@@ -1,14 +1,14 @@
 # Candidate Selection Form
 
-Internal form for deciding whether a candidate should enter the Operator Track.
+Company form for deciding whether a candidate should enter the Operator Track.
 
 Use after the candidate has reviewed the Program Brief and before they receive the Operator Playbook as an active participant.
 
 ## Approval Roles
 
-Bryan Abrego gives final approval on candidate acceptance, hold, or rejection unless he delegates authority in writing. Bryan is CEO, owns operational judgment, and is the default first manager responsible for Operator Track execution. Alex Heinz may support program documentation, candidate-facing language, tracking, and administrative setup where assigned. Luis Abrego may provide operational input when involved, but Bryan makes the final program decision unless delegated.
+Bryan Abrego gives final approval on candidate acceptance, hold, or rejection unless he delegates authority in writing. Bryan Abrego is CEO, owns operational judgment, and is the default first manager responsible for Operator Track execution. Alex Heinz may support program documentation, participant communication language, tracking, and administrative setup where assigned. Luis Abrego may provide operational input when involved, but Bryan Abrego makes the final program decision unless delegated.
 
-Selection scores are a pilot management standard, not a legal entitlement or automatic acceptance rule. Management may hold or reject a candidate when trust, judgment, safety, customer communication, or operational concerns outweigh the numeric score.
+Selection scores are a management evaluation standard, not a legal entitlement or automatic acceptance rule. Management may hold or reject a candidate when trust, judgment, safety, customer communication, or operational concerns outweigh the numeric score.
 
 ## Candidate Information
 
@@ -60,17 +60,17 @@ Complete before acceptance or mark not applicable.
 
 | Prerequisite | Status | Evidence / date |
 | --- | --- | --- |
-| Normal hiring process complete | Complete / Pending / N/A |  |
-| Background check complete | Complete / Pending / N/A |  |
-| Employment eligibility / onboarding complete | Complete / Pending / N/A |  |
-| Driver qualification complete, if driving | Complete / Pending / N/A |  |
-| Insurance/vehicle policy cleared, if driving | Complete / Pending / N/A |  |
-| Safety orientation complete | Complete / Pending / N/A |  |
-| Household-goods movement training complete | Complete / Pending / N/A |  |
-| Trainee supervision plan set, if needed | Complete / Pending / N/A |  |
-| Probationary field period completed, if outside hire | Complete / Pending / N/A |  |
-| Supermove access or reporting process ready | Complete / Pending / N/A |  |
-| Candidate acknowledgment signed | Complete / Pending / N/A |  |
+| Normal hiring process complete | Complete / In progress / N/A |  |
+| Background check complete | Complete / In progress / N/A |  |
+| Employment eligibility / onboarding complete | Complete / In progress / N/A |  |
+| Driver qualification complete, if driving | Complete / In progress / N/A |  |
+| Insurance/vehicle policy cleared, if driving | Complete / In progress / N/A |  |
+| Safety orientation complete | Complete / In progress / N/A |  |
+| Household-goods movement training complete | Complete / In progress / N/A |  |
+| Trainee supervision plan set, if needed | Complete / In progress / N/A |  |
+| Probationary field period completed, if outside hire | Complete / In progress / N/A |  |
+| Supermove access or reporting process ready | Complete / In progress / N/A |  |
+| Candidate acknowledgment signed | Complete / In progress / N/A |  |
 
 ## Minimum Entry Screen
 
@@ -155,8 +155,8 @@ Minimum screen failures should outweigh a high average score.
 | Minimum entry screen passed? | Yes / No |
 | Suggested decision from score | Accept / Hold / Reject |
 | Manager final decision | Accept / Hold / Reject |
-| Alex review, if assigned | Yes / No / N/A |
-| Bryan final approval | Yes / No |
+| Alex Heinz review, if assigned | Yes / No / N/A |
+| Bryan Abrego final approval | Yes / No |
 
 ## Practical Interview Questions
 
@@ -310,7 +310,7 @@ Reject:
 
 Keep the message brief, factual, and tied to job-related criteria.
 
-## Internal Acceptance Check
+## Distribution Readiness Check
 
 Management should be able to make a clear yes, no, or hold decision from this form.
 
@@ -323,15 +323,15 @@ Before accepting a candidate, confirm:
 - The start date and first review date are clear.
 - The candidate will not be treated as accepted until the decision section is complete.
 
-## Final Review Items
+## Professional Review Requirements
 
-- Review selection criteria for employment law compliance before use.
+- Review selection criteria for employment law compliance before implementation.
 - Do not ask questions about protected personal characteristics, family status, disability, age, religion, national origin, or other non-job-related matters.
 - If this form is used for outside hires, confirm it aligns with Dos Manos hiring, background check, driving, employment eligibility, safety, and probationary field period procedures.
 - If the candidate may drive, confirm driver qualification, insurance, safety, and vehicle-policy requirements before assigning driving responsibility.
 - Confirm required household-goods movement training is complete before the candidate is used as a driver, helper, or packer on Illinois household goods shipments; any trainee should be supervised by a trained employee.
 
-Research notes:
+References:
 
 - EEOC guidance on prohibited employment policies and practices: https://www.eeoc.gov/prohibited-employment-policiespractices
 - EEOC guidance on employment tests and selection procedures: https://www.eeoc.gov/laws/guidance/employment-tests-and-selection-procedures

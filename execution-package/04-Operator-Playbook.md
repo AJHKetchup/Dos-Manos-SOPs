@@ -25,7 +25,7 @@ An Operator Track participant is expected to:
 
 - Bring in and book quality leads.
 - Communicate clearly with customers.
-- Follow pricing guidelines.
+- Follow the Dos Manos Pricing Policy.
 - Use Supermove or the approved reporting process.
 - Track lead sources.
 - Help execute jobs under the Dos Manos service standard.
@@ -82,7 +82,7 @@ Before a job is booked, confirm:
 - Packing needs.
 - Specialty items.
 - Crew and truck needs.
-- Pricing guideline used.
+- Pricing Policy basis used.
 - Deposit or booking requirement, if applicable.
 - How the customer heard about Dos Manos.
 - Lead source or referral source.
@@ -100,50 +100,20 @@ Before the crew arrives, the job record should make the job understandable.
 - [ ] Stairs, elevators, long carries, parking, loading docks, and building rules are documented.
 - [ ] Specialty, fragile, heavy, sentimental, or high-risk items are noted.
 - [ ] Protection needs are noted.
-- [ ] Pricing guideline and assumptions are documented.
+- [ ] Pricing Policy basis and assumptions are documented.
 - [ ] Deposit or booking status is clear.
 - [ ] Lead source is recorded.
 - [ ] Follow-up or customer concern notes are recorded.
 
-## Pricing Guideline Basics
+## Pricing Policy Basics
 
-Use the current Bryan-approved Dos Manos pricing guidelines. If unsure, ask Bryan before quoting.
+Use the current CEO-approved Dos Manos Pricing Policy. If unsure, ask Bryan Abrego before quoting.
 
-Current minimum: $450 minimum job revenue / minimum job cost unless Bryan updates the pricing guide.
+Current minimum: $450 minimum job revenue / minimum job cost unless Bryan Abrego updates the Dos Manos Pricing Policy.
 
-Current baseline pricing snapshot:
+The Pricing Policy controls hourly rates, crew and truck rates, travel time, transportation fees, U-Haul treatment, materials, specialty items, deposits, cancellation terms, discounts, and revenue-share base treatment.
 
-Local moves, hourly ranges:
-
-| Crew size | Hourly range |
-| ---: | ---: |
-| 2 movers | $140-$155 |
-| 3 movers | $175-$190 |
-| 4 movers | $210-$225 |
-| 5 movers | $245-$260 |
-
-Labor-only, hourly ranges:
-
-| Crew size | Hourly range |
-| ---: | ---: |
-| 2 movers | $130-$145 |
-| 3 movers | $165-$180 |
-| 4 movers | $200-$215 |
-| 5 movers | $230-$245 |
-
-Truck and transportation fees:
-
-| Distance | Fee |
-| ---: | ---: |
-| 0-20 miles | $175 |
-| 20-30 miles | $225 |
-| 35+ miles | Special Pricing |
-
-U-Haul rental: $150 flat + $2.25 per mile.
-
-Current range rules: peak pricing if two bookings / capacity pressure, Chicago jobs, or more than 25 miles; low end = easy jobs; mid range = standard jobs; high end = tight schedule / high demand.
-
-The full pricing policy is still pending Bryan's answers. Do not invent rules for minimum hours, mileage calculation, materials, specialty items, deposits, discounts, or revenue-share base.
+For pricing rules not listed in the Pricing Policy, the Operator must obtain CEO approval before quoting. Operators must not invent rules for minimum hours, mileage calculation, materials, specialty items, deposits, discounts, or revenue-share base.
 
 Pricing discipline means:
 
@@ -175,7 +145,7 @@ Use this if management approves a discount, special pricing, or unusual quote st
 
 Operators should not create pricing exceptions on their own.
 
-Approval rule: Bryan approves pricing, operational, discount, special-pricing, and policy exceptions unless he delegates authority in writing. Recurring exceptions should be added to the pricing guide.
+Approval rule: Bryan Abrego approves pricing, operational, discount, special-pricing, and policy exceptions unless he delegates authority in writing. Recurring exceptions should be added to the Dos Manos Pricing Policy.
 
 ## Customer Call Process
 
@@ -257,12 +227,12 @@ For every estimate, record:
 - What the customer says is being moved.
 - Access details.
 - Services requested.
-- Pricing guideline used.
+- Pricing Policy basis used.
 - Assumptions.
 - Items or conditions that could change the final price.
 - Whether management review is needed.
 
-For Illinois household goods moves, confirm Dos Manos is using required approved estimate forms and tariff-compliant pricing where applicable. The working compliance rule is that Illinois intrastate household goods moves need an ICC-compliant written estimate before service starts, Consumer Guide confirmation, bill of lading/freight bill, valuation election, inventory when required, and required vehicle/cab-card documentation as applicable.
+For Illinois household goods moves, confirm Dos Manos is using required approved estimate forms and tariff-compliant pricing where applicable. The compliance rule is that Illinois intrastate household goods moves need an ICC-compliant written estimate before service starts, Consumer Guide confirmation, bill of lading/freight bill, valuation election, inventory when required, and required vehicle/cab-card documentation as applicable.
 
 ## Supermove Entry Process
 
@@ -308,7 +278,7 @@ A useful Supermove record should let another manager or crew member understand t
 | --- | --- |
 | Customer contact | Name, phone, and email if available. |
 | Move details | Date, origin, destination, move type, inventory or scope, and access notes. |
-| Pricing | Pricing guideline, assumptions, and conditions that may change the final cost. |
+| Pricing | Pricing Policy basis, assumptions, and conditions that may change the final cost. |
 | Source | How the customer heard about Dos Manos, referral source, territory channel, or ad/source tag. |
 | Follow-up | Quote status, follow-up date, and last customer contact. |
 | Risk notes | Fragile, heavy, sentimental, high-value, or difficult items; building rules; protection needs. |
@@ -352,7 +322,7 @@ Do:
 
 - Keep customer names, phone numbers, addresses, job details, pricing notes, and payment issues inside approved Dos Manos tools and communication channels.
 - Share job information only with people who need it to quote, schedule, perform, bill, review, or resolve the job.
-- Treat referral partner lists, territory plans, pricing guidelines, and customer records as company information.
+- Treat referral partner lists, territory plans, the Dos Manos Pricing Policy, and customer records as company information.
 - Escalate if customer information is sent to the wrong person or handled improperly.
 
 Do not:
@@ -567,7 +537,7 @@ Escalate immediately if:
 - The customer requests a certificate of insurance or additional insured document.
 - The job may cross state lines or require federal authority / FMCSA / U.S. DOT compliance review.
 
-Do not make private deals, admit fault, promise payment, interpret insurance, waive charges, or promise claim outcomes. Bryan has final authority over claims, refunds, repairs, settlements, denials, insurance submissions, and claim impact on revenue share. Say: "We'll document it and get it to management so it can be handled through the company's claims process."
+Do not make private deals, admit fault, promise payment, interpret insurance, waive charges, or promise claim outcomes. Bryan Abrego has final authority over claims, refunds, repairs, settlements, denials, insurance submissions, and claim impact on revenue share. Say: "We'll document it and get it to management so it can be handled through the company's claims process."
 
 ## COI And Additional Insured Requests
 
@@ -587,7 +557,7 @@ Operator-approved insurance language:
 
 > We are licensed and insured for the work we are authorized to perform, and our office can provide the appropriate certificate if needed.
 
-Operators should not issue or modify COIs, quote limits, interpret coverage, or add additional insured language. Central admin/ownership handles COI and additional insured requests through the insurance agent.
+Operators should not issue or modify COIs, quote limits, interpret coverage, or add additional insured language. Central administration/ownership handles COI and additional insured requests through the insurance agent.
 
 ## Interstate Move Requests
 
@@ -601,7 +571,7 @@ If a customer asks about a move crossing state lines, pause before quoting or bo
 
 Known long-distance interest or past discussion does not replace FMCSA / U.S. DOT compliance review.
 
-Working rule: do not book interstate household goods moves unless Dos Manos' FMCSA/U.S. DOT authority and required interstate documents are confirmed. If authority is not confirmed, decline or refer the customer to an authorized mover.
+Operating rule: do not book interstate household goods moves unless Dos Manos' FMCSA/U.S. DOT authority and required interstate documents are confirmed. If authority is not documented, decline or refer the customer to an authorized mover.
 
 ## Issue Severity Guide
 
@@ -650,7 +620,7 @@ When a customer issue, damage concern, claim, payment dispute, or major complain
 
 Do not edit facts to protect yourself or the crew. Clean facts protect the customer, Dos Manos, and the operator.
 
-Formal claims should be routed to Bryan first unless he delegates claim intake. Illinois household goods claim timelines require professional compliance handling; the working reference is at least 90 days for a customer to submit loss/damage claims, written acknowledgment within 30 days, and payment, denial, or written settlement offer within 120 days.
+Formal claims should be routed to Bryan Abrego first unless he delegates claim intake. Illinois household goods claim timelines require professional compliance handling; the compliance reference is at least 90 days for a customer to submit loss/damage claims, written acknowledgment within 30 days, and payment, denial, or written settlement offer within 120 days.
 
 ## Weekly Reporting Instructions
 
@@ -690,7 +660,7 @@ Close:
 
 ### Estimate Explanation
 
-> Based on what you shared, this estimate depends on the inventory, access, stairs or elevators, distance, packing needs, and any added stops. I am going to document those details so the office and crew understand the job. If the actual scope changes, the final price may change under Dos Manos guidelines.
+> Based on what you shared, this estimate depends on the inventory, access, stairs or elevators, distance, packing needs, and any added stops. I am going to document those details so the office and crew understand the job. If the actual scope changes, the final price may change under the Dos Manos Pricing Policy.
 
 ### Cheaper Competitor Response
 
@@ -773,7 +743,7 @@ Managers should use these drills during Operator Track training.
 | Program expectations and non-guarantees |  |  |  |
 | Revenue Share and Lead Attribution Policy |  |  |  |
 | Supermove entry and source tracking |  |  |  |
-| Pricing guideline basics |  |  |  |
+| Pricing Policy basics |  |  |  |
 | Customer call process |  |  |  |
 | Estimate explanation |  |  |  |
 | Quote follow-up process |  |  |  |
@@ -801,13 +771,13 @@ Managers should use these drills during Operator Track training.
 | Issue escalation readiness |  |
 | Approved for live customer activity | Yes / No |
 
-## Internal Acceptance Check
+## Distribution Readiness Check
 
 A participant should be able to use this playbook during the Operator Track to book, track, follow up, lead jobs, and report activity.
 
-Before use, management should insert or confirm:
+Before implementation, management should insert or confirm:
 
-- Current pricing guidelines.
+- Dos Manos Pricing Policy.
 - Supermove required fields.
 - Weekly report deadline.
 - Escalation contact.
@@ -824,14 +794,14 @@ Before use, management should insert or confirm:
 | --- | --- | --- | --- |
 | Manager responsible |  |  |  |
 | Supermove access or record issue |  |  |  |
-| Pricing question | Bryan Abrego | Delegated manager, if any | Bryan is CEO and final authority for pricing, discounts, special pricing, and policy exceptions unless delegated in writing. |
+| Pricing question | Bryan Abrego | Delegated manager, if any | Bryan Abrego is CEO and final authority for pricing, discounts, special pricing, and policy exceptions unless delegated in writing. |
 | Dispatch or crew issue |  |  |  |
-| Customer complaint or claim | Bryan Abrego | Delegated manager, if any | Bryan has final authority over repairs, refunds, settlements, denials, insurance submissions, and claim impact on revenue share. |
+| Customer complaint or claim | Bryan Abrego | Delegated manager, if any | Bryan Abrego has final authority over repairs, refunds, settlements, denials, insurance submissions, and claim impact on revenue share. |
 | COI / additional insured request | Central admin / ownership | Insurance agent | Operators do not issue or modify COIs. |
-| Payroll or revenue share question | Bryan Abrego / bookkeeper | Delegated accounting contact, if any | QuickBooks/payment confirmation controls collected revenue; Bryan controls exceptions and payout treatment. |
+| Payroll or revenue share question | Bryan Abrego / bookkeeper | Delegated accounting contact, if any | QuickBooks/payment confirmation controls collected revenue; Bryan Abrego controls exceptions and payout treatment. |
 | Referral partner setup | Bryan Abrego / admin / bookkeeper | Delegated accounting contact, if any | W-9, tracking, month-end payout process, and approval required before promise. |
 
-## Final Review Items
+## Professional Review Requirements
 
 - Confirm all estimate language and forms comply with applicable household goods moving rules.
 - Confirm driver qualification, safe-driving, vehicle maintenance, and equipment inspection procedures before assigning driving responsibility.
@@ -842,7 +812,7 @@ Before use, management should insert or confirm:
 - Confirm which interstate moving materials must be provided when Dos Manos handles interstate moves.
 - Confirm Supermove contract language, including hold-harmless terms, before relying on it in training.
 
-Research notes:
+References:
 
 - Illinois Commerce Commission household goods mover requirements: https://icc.illinois.gov/authority/household-goods-movers
 - Illinois Commerce Commission Applicant's Handbook for Household Goods Moving Service within Illinois: https://icc.illinois.gov/downloads/public/mc/HHGHandbook.pdf

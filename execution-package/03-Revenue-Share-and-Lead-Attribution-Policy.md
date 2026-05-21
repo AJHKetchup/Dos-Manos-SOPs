@@ -1,6 +1,6 @@
 # Revenue Share and Lead Attribution Policy
 
-Policy draft for determining when a participant earns 10% of collected revenue.
+Company policy for determining when a participant earns 10% of collected revenue.
 
 Use before the participant starts booking or claiming approved jobs. This policy should also be checked during monthly reviews and before any revenue share payment is approved.
 
@@ -18,7 +18,7 @@ Participants may also receive 10% of collected revenue on approved jobs, in addi
 
 Normal field pay and program revenue share should be treated as separate questions. A participant may be paid for field work performed even if a job does not qualify for the 10% revenue share.
 
-Payroll default: for employees, treat the 10% as employee compensation through payroll, likely as commission, bonus, or supplemental wages, until CPA/payroll counsel gives final classification. Use the safer assumption that revenue share may affect overtime calculations for non-exempt employees until counsel/payroll confirms otherwise. Revenue-share timing may vary by company process and may use next regular payroll, month-end, scheduled accounting/payment run, or another Bryan-approved payout cycle.
+Payroll default: for employees, treat the 10% as employee compensation through payroll, likely as commission, bonus, or supplemental wages, until CPA/payroll counsel gives final classification. Use the safer assumption that revenue share may affect overtime calculations for non-exempt employees until counsel/payroll confirms otherwise. Revenue-share timing may vary by company process and may use next regular payroll, month-end, scheduled accounting/payment run, or another CEO-approved payout cycle.
 
 Future compensation arrangements may change based on role, stage, territory, location maturity, and company policy.
 
@@ -30,7 +30,7 @@ Collected revenue means revenue Dos Manos has actually been paid for the job und
 
 Supermove should be treated as the central job record whenever possible. QuickBooks or accounting records should confirm payment status, collected revenue, refunds, chargebacks, unpaid balances, and payment timing before revenue share is approved.
 
-Verification default: QuickBooks or the approved accounting record confirms payment. Bryan has final authority over eligibility, exceptions, partial-payment treatment, claims/refunds, and disputed attribution unless he delegates authority in writing.
+Verification default: QuickBooks or the approved accounting record confirms payment. Bryan Abrego has final authority over eligibility, exceptions, partial-payment treatment, claims/refunds, and disputed attribution unless he delegates authority in writing.
 
 ## Accounting Control Points
 
@@ -50,8 +50,8 @@ Collected revenue does not include:
 - Amounts refunded to the customer.
 - Chargebacks.
 - Unpaid balances.
-- Amounts tied to unresolved claims, unless Bryan approves treatment.
-- Amounts tied to major unresolved customer issues, unless Bryan approves treatment.
+- Amounts tied to unresolved claims, unless Bryan Abrego approves treatment.
+- Amounts tied to major unresolved customer issues, unless Bryan Abrego approves treatment.
 - Amounts outside approved Dos Manos billing and collection channels.
 
 Deposits do not trigger the 10% revenue share by themselves.
@@ -63,7 +63,7 @@ Canceled or rescheduled jobs do not trigger revenue share unless the job is late
 At the Operator Track stage, an approved job is a job that:
 
 - The participant personally brings in or books.
-- Follows Dos Manos pricing guidelines.
+- Follows the Dos Manos Pricing Policy.
 - Follows Dos Manos service standards.
 - Is entered into Supermove or reported through the approved Dos Manos process.
 - Is completed under the Dos Manos brand.
@@ -85,7 +85,7 @@ Approved territory channels may include:
 - Territory referral sources.
 - Other approved territory-tracked channels.
 
-Territory Operator jobs must still follow Dos Manos pricing guidelines, service standards, Supermove process, billing and collection standards, and claims/customer issue standards.
+Territory Operator jobs must still follow the Dos Manos Pricing Policy, service standards, Supermove process, billing and collection standards, and claims/customer issue standards.
 
 ## Lead Attribution Rules
 
@@ -158,7 +158,7 @@ Default dispute priority:
 2. Dedicated territory phone, form, page, ad, or social source.
 3. Written referral record.
 4. Customer statement.
-5. Bryan decision.
+5. Bryan Abrego decision.
 
 ## Dispute Resolution Process
 
@@ -176,15 +176,15 @@ Disputes should be based on records, not memory or informal claims.
 A job is not eligible for the 10% revenue share if:
 
 - It was not entered into Supermove or reported through the approved Dos Manos process.
-- It did not follow Dos Manos pricing guidelines.
+- It did not follow the Dos Manos Pricing Policy.
 - It did not follow Dos Manos service standards.
 - It was not completed under the Dos Manos brand.
 - It was not collected from the customer.
-- It resulted in a refund, unless Bryan approves treatment.
-- It resulted in a chargeback, unless Bryan approves treatment.
-- It has an unpaid balance, unless Bryan approves partial-payment treatment.
-- It resulted in a claim, unless Bryan approves treatment.
-- It has a major unresolved customer issue, unless Bryan approves treatment.
+- It resulted in a refund, unless Bryan Abrego approves treatment.
+- It resulted in a chargeback, unless Bryan Abrego approves treatment.
+- It has an unpaid balance, unless Bryan Abrego approves partial-payment treatment.
+- It resulted in a claim, unless Bryan Abrego approves treatment.
+- It has a major unresolved customer issue, unless Bryan Abrego approves treatment.
 - The participant made an unapproved arrangement outside the approved Dos Manos process.
 - The participant misrepresented pricing, availability, service terms, or company approval.
 - The job violates company policy or legal/regulatory requirements.
@@ -196,7 +196,7 @@ Approved pricing exceptions do not automatically make a job ineligible, but the 
 
 | Scenario | Eligible? | Reason |
 | --- | --- | --- |
-| Participant books a customer, enters the lead in Supermove, the job follows pricing guidelines, is completed well, and the customer pays in full. | Yes, if approved | The job meets Operator Track approved job requirements and collected revenue is confirmed. |
+| Participant books a customer, enters the lead in Supermove, the job follows the Dos Manos Pricing Policy, is completed well, and the customer pays in full. | Yes, if approved | The job meets Operator Track approved job requirements and collected revenue is confirmed. |
 | Participant talks to a customer but does not enter or report the lead, and management cannot confirm attribution. | Usually no | The lead was not tracked properly. |
 | Customer pays a deposit but the job has not been completed. | No | Deposits do not trigger the 10% revenue share by themselves. |
 | Job is completed but the customer has an unpaid balance. | No until resolved | Collected revenue has not been fully confirmed under company standards. |
@@ -226,31 +226,31 @@ If a participant recruits a referral partner, management must decide whether tha
 
 Referral partners may need W-9 collection and 1099-NEC review if payments meet reporting thresholds. Participants should not give tax advice to referral partners.
 
-If a job could trigger both a participant revenue share and a referral partner payout, management must approve the combined treatment before payment. Do not assume the 10% participant revenue share and 5% referral fee automatically stack on the same job. Bryan controls stacking decisions.
+If a job could trigger both a participant revenue share and a referral partner payout, management must approve the combined treatment before payment. Do not assume the 10% participant revenue share and 5% referral fee automatically stack on the same job. Bryan Abrego controls stacking decisions.
 
-Stacking rule: at Territory Operator stage, the 5% referral partner fee and 10% Territory Operator revenue share may stack if Bryan approves, both are tracked, and the referral source is an approved territory channel. During the Operator Track, stacking requires Bryan approval before payment.
+Stacking rule: at Territory Operator stage, the 5% referral partner fee and 10% Territory Operator revenue share may stack if Bryan Abrego approves, both are tracked, and the referral source is an approved territory channel. During the Operator Track, stacking requires Bryan Abrego approval before payment.
 
 ## Payment Review Process
 
 Use this process before approving revenue share:
 
 1. Confirm the job is completed in Supermove or the approved job record.
-2. Bryan/operations confirms no major service issue.
+2. Bryan Abrego / operations confirms no major service issue.
 3. Confirm the customer paid Dos Manos in QuickBooks or the approved accounting record.
 4. Confirm there is no refund, chargeback, unpaid balance, claim, or major unresolved customer issue.
 5. Confirm the job was priced and performed under Dos Manos standards.
 6. Confirm the lead was tracked in Supermove or an approved tracking record.
 7. Confirm the participant or territory attribution.
-8. Bryan approves the 10% revenue share for payroll or accounting processing, unless the payment is routine and he has delegated approval.
+8. Bryan Abrego approves the 10% revenue share for payroll or accounting processing, unless the payment is routine and he has delegated approval.
 9. Update the Operator Performance Tracker or payment log.
 
-Approved payment timing options may include next regular payroll, month-end, scheduled accounting/payment run, or another Bryan-approved payout cycle after the job is completed, collected revenue is confirmed, attribution is approved, and claims/customer issues are reviewed. Do not promise off-cycle payment unless Bryan and payroll/accounting approve it.
+Approved payment timing options may include next regular payroll, month-end, scheduled accounting/payment run, or another CEO-approved payout cycle after the job is completed, collected revenue is confirmed, attribution is approved, and claims/customer issues are reviewed. Do not promise off-cycle payment unless Bryan Abrego and payroll/accounting approve it.
 
 Referral partner payments follow the separate affiliate/referral process. Current referral payout timing is month end, through a W-9-backed process with proper tracking, after Dos Manos is paid and the referral is approved.
 
 ## Revenue Share Hold Reasons
 
-Revenue share may be held pending review if:
+Revenue share may be held for review if:
 
 - Collected revenue has not been confirmed in QuickBooks or accounting records.
 - The job has an unpaid balance.
@@ -259,12 +259,12 @@ Revenue share may be held pending review if:
 - Lead attribution is disputed.
 - The job source is unclear.
 - The job was not entered or reported through Supermove or the approved process.
-- Pricing guideline compliance is unclear.
+- Pricing Policy compliance is unclear.
 - Management needs to review an exception.
 
 If payment is held, management should record the reason, owner, and next review date.
 
-Partially paid jobs are handled by Bryan's decision. Do not create an automatic partial-payment payout rule. If a claim opens after payout, flag the job and get legal/payroll review before any future offset or wage deduction. Do not create an automatic clawback without review.
+Partially paid jobs are handled by Bryan Abrego's decision. Do not create an automatic partial-payment payout rule. If a claim opens after payout, flag the job and get legal/payroll review before any future offset or wage deduction. Do not create an automatic clawback without review.
 
 ## Revenue Share Hold Log
 
@@ -280,7 +280,7 @@ Partially paid jobs are handled by Bryan's decision. Do not create an automatic 
 | Manager | Confirms attribution, pricing discipline, and eligibility. Default first manager and final authority: Bryan Abrego. |
 | Operations | Confirms completion, claims/customer issue status, and service-standard concerns. Default owner: Bryan Abrego. |
 | Accounting/payroll | Confirms collected revenue, payment status, payroll/accounting treatment, and payout timing. Default verifier: bookkeeper/accounting support as assigned. |
-| Owner/leadership, if needed | Bryan resolves disputes, exceptions, partial-payment treatment, claim/refund impact, or unusual payment questions unless delegated in writing. |
+| Owner/leadership, if needed | Bryan Abrego resolves disputes, exceptions, partial-payment treatment, claim/refund impact, or unusual payment questions unless delegated in writing. |
 
 ## Exceptions
 
@@ -315,16 +315,16 @@ Do not use exceptions to fix poor lead tracking, side arrangements, or repeated 
 | Refunds or chargebacks |  |
 | Claims or unresolved issues |  |
 | Approved revenue share amount |  |
-| Bryan operational approval |  |
-| Bryan/payment approval |  |
+| Bryan Abrego operational approval |  |
+| Bryan Abrego payment approval |  |
 | Payroll period |  |
 | Payroll/accounting processing date |  |
 | Payment date |  |
 | Notes |  |
 
-## Internal Acceptance Check
+## Distribution Readiness Check
 
-Before using this policy, management should confirm:
+Before distribution, management confirms:
 
 - The definition of collected revenue is clear.
 - Operator Track approved jobs are clear.
@@ -334,7 +334,7 @@ Before using this policy, management should confirm:
 - Refunds, chargebacks, unpaid balances, claims, and unresolved customer issues are handled.
 - The Operator Performance Tracker has enough fields to support payment review.
 
-## Final Review Items
+## Professional Review Requirements
 
 - Payroll/accounting should confirm whether the 10% revenue share is treated as commission, bonus, supplemental wages, or another category.
 - Counsel/payroll should review whether revenue share payments affect overtime calculations for nonexempt employees.
@@ -343,7 +343,7 @@ Before using this policy, management should confirm:
 - Insurance and claims handling should confirm when claim activity makes a job ineligible.
 - Accounting should confirm W-9 and 1099-NEC handling for affiliate/referral payments.
 
-Research notes:
+References:
 
 - IRS Publication 15, supplemental wages including bonuses and commissions: https://www.irs.gov/publications/p15
 - U.S. Department of Labor Fact Sheet 56A, regular-rate overview: https://www.dol.gov/agencies/whd/fact-sheets/56a-regular-rate

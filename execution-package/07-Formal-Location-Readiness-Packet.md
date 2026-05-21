@@ -1,6 +1,6 @@
 # Formal Location Readiness Packet
 
-Internal packet for deciding whether a territory is ready to become a more separated Dos Manos location.
+Company packet for deciding whether a territory is ready to become a more separated Dos Manos location.
 
 Use only after the Territory Assignment and Launch Packet has been active for at least six months and has produced meaningful evidence. This packet should rely on Supermove, QuickBooks/accounting records, claims/customer records, review activity, referral activity, and management observations.
 
@@ -10,7 +10,7 @@ This packet helps management decide whether a territory is ready for more invest
 
 Use this only after a territory has at least six months of meaningful activity. Do not use it to promise a Formal Location, General Manager role, ownership, buy-in, cash-flow participation, or profit participation.
 
-Review authority: Bryan has final authority over Formal Location review and General Manager promotion unless delegated in writing. The bookkeeper/CPA should support location-level economics review. Any cash-flow participation, profit participation, phantom equity, buy-in, ownership, or other economic structure requires Bryan / ownership-group approval with attorney and CPA review.
+Review authority: Bryan Abrego has final authority over Formal Location review and General Manager promotion unless delegated in writing. The bookkeeper/CPA should support location-level economics review. Any cash-flow participation, profit participation, phantom equity, buy-in, ownership, or other economic structure requires Bryan Abrego / ownership group approval with attorney and CPA review.
 
 ## Territory Summary
 
@@ -38,7 +38,7 @@ Attach or link the records management used for this review.
 | Lead source report | Supermove / advertising / call tracking | Yes / No |
 | Collected revenue report | QuickBooks / accounting | Yes / No |
 | Claims and damage history | Claims records / Supermove | Yes / No |
-| Review performance | Public review platforms / internal tracking | Yes / No |
+| Review performance | Public review platforms / company tracking | Yes / No |
 | Referral partner activity | Referral tracker / Supermove | Yes / No |
 | Crew and truck coverage notes | Operations | Yes / No |
 | Insurance / COI / licensing review | Management / insurance / counsel | Yes / No |
@@ -103,7 +103,7 @@ Prior planning assumptions discussed for a DuPage-style location included approx
 
 Other prior planning references include a direct labor target around 30%-35% of billed revenue, a minimum job revenue / minimum job cost around $450, and a baseline margin concept around 30% in wage/pricing discussions. These should be tested against actual Supermove and QuickBooks data before any location decision.
 
-Working margin target: positive contribution margin after labor, truck/rental, materials, fuel, direct marketing, claims, and referral/revenue-share payouts. The labor benchmark is roughly 35% of revenue, but the final location decision should use actual territory data.
+Margin target: positive contribution margin after labor, truck/rental, materials, fuel, direct marketing, claims, and referral/revenue-share payouts. The labor benchmark is roughly 35% of revenue, but the final location decision should use actual territory data.
 
 ## Operating Strength
 
@@ -225,9 +225,9 @@ Revenue should not override red flags in customer trust, claim history, operator
 
 ## Asset And Startup Review
 
-Working asset plan: use a mixed/rental-first model until job volume, margin, and reliability prove the need for dedicated assets. Owned or dedicated truck access should be considered only when actual volume supports it.
+Asset plan: use a mixed/rental-first model until job volume, margin, and reliability prove the need for dedicated assets. Owned or dedicated truck access should be considered only when actual volume supports it.
 
-Working startup-capital sequence: tracking channels first, then referral and ad buildout, then rented trucks, then owned/dedicated assets only after proof.
+Startup-capital sequence: tracking channels first, then referral and ad buildout, then rented trucks, then owned/dedicated assets only after proof.
 
 | Item | Current state | Needed for next stage | Notes |
 | --- | --- | --- | --- |
@@ -349,7 +349,7 @@ The intended structure is location-level and does not imply repeated dilution of
 
 Do not use prior investor discussions, location-level equity concepts, holding-company concepts, hybrid structures, or any discussed purchase price as final terms unless they are confirmed against signed documents and approved by counsel and tax/accounting.
 
-## Internal Acceptance Check
+## Distribution Readiness Check
 
 Management should be able to decide whether the territory is ready for more investment, more separation, General Manager promotion, or location-level opportunity review.
 
@@ -364,7 +364,7 @@ Before making a decision, confirm:
 - Financial assumptions have been checked against actual Supermove and QuickBooks records.
 - The management decision memo is completed before any structural change is communicated.
 
-## Final Review Items
+## Professional Review Requirements
 
 - Counsel should review any Formal Location or location-level opportunity structure before discussion with the participant.
 - Tax and accounting should review cash-flow participation, profit participation, phantom equity, buy-in, or ownership concepts before they are offered.
@@ -373,7 +373,7 @@ Before making a decision, confirm:
 - Counsel should review franchise, securities, employment, confidentiality, non-solicitation, customer ownership, referral partner ownership, and territory reassignment implications.
 - Tax/accounting should review truck depreciation, partnership tax treatment, Form 1065 reporting implications, and any location-level economic structure before presentation.
 
-Research notes:
+References:
 
 - FTC Franchise Rule: https://www.ftc.gov/legal-library/browse/rules/franchise-rule
 - IRS independent contractor definition and worker classification guidance: https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-defined

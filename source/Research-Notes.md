@@ -1,6 +1,6 @@
-# Research Notes For Polish Pass
+# Research References
 
-These notes are not standalone program documents. They are drafting inputs for scripts, customer communication standards, referral outreach, and management review.
+These references support customer communication standards, referral outreach, service recovery, review requests, and safety practices.
 
 ## Negotiation And Customer Conversation
 

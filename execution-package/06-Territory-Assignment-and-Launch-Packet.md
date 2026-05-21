@@ -2,7 +2,7 @@
 
 Use this packet only after a participant earns a territory.
 
-Use with the Operator Performance Tracker. A territory should not be assigned because of enthusiasm alone or a fixed job-count threshold. It should be assigned after documented performance, judgment, trust, company readiness to expand, market fit, operating capacity, and Bryan approval.
+Use with the Operator Performance Tracker. A territory should not be assigned because of enthusiasm alone or a fixed job-count threshold. It should be assigned after documented performance, judgment, trust, company readiness to expand, market fit, operating capacity, and Bryan Abrego approval.
 
 ## Purpose
 
@@ -31,7 +31,7 @@ Territory design should protect quality and operational control before expansion
 
 | Evidence question | Response |
 | --- | --- |
-| Is there enough documented booking, customer, field, and reporting evidence for Bryan to judge territory readiness? |  |
+| Is there enough documented booking, customer, field, and reporting evidence for Bryan Abrego to judge territory readiness? |  |
 | Are there any major unresolved complaints or serious avoidable claims? |  |
 | Has the participant shown clean Supermove usage and weekly reporting? |  |
 | What Operator Performance Tracker evidence supports territory assignment? |  |
@@ -48,7 +48,7 @@ Use these guidelines before assigning or advertising any territory.
 
 A territory should be considered only when:
 
-- Bryan is comfortable with the operator representing Dos Manos locally.
+- Bryan Abrego is comfortable with the operator representing Dos Manos locally.
 - The operator has shown customer judgment, pricing discipline, service quality, documentation discipline, crew leadership, and trust.
 - Dos Manos is prepared to expand or advertise that market.
 - The market has a believable base of quality-focused customers and referral partners.
@@ -66,10 +66,10 @@ Use one or more:
 
 - Cities or suburbs.
 - ZIP codes.
-- Service radius. A rough 20-mile radius may be useful as a planning starting point, depending on density and operating capacity.
+- Service radius. An approximate 20-mile radius may be useful as a planning starting point, depending on density and operating capacity.
 - Named neighborhoods.
 - Counties.
-- Map link or internal map reference.
+- Map link or company map reference.
 - Excluded areas.
 
 If the territory is based on expansion planning, note whether the market has a strong base of middle to upper-middle-income customers, homes above the company's target value threshold, referral density, or practical truck/crew access.
@@ -183,7 +183,7 @@ Dos Manos may pay approved referral partners or affiliates, generally 5% of the 
 
 If a territory lead could also qualify for participant revenue share, management should decide and document whether the referral payout, territory attribution, and participant revenue share stack, split, or require another approved treatment.
 
-Stacking rule: the 5% referral partner fee and 10% Territory Operator revenue share may stack only when Bryan approves, both are tracked, and the referral source is an approved territory channel.
+Stacking rule: the 5% referral partner fee and 10% Territory Operator revenue share may stack only when Bryan Abrego approves, both are tracked, and the referral source is an approved territory channel.
 
 ## Referral Partner Setup Checklist
 
@@ -195,7 +195,7 @@ Stacking rule: the 5% referral partner fee and 10% Territory Operator revenue sh
 | W-9 requested or collected if needed | Yes / No |  |
 | Payout terms confirmed by management/accounting | Yes / No |  |
 | Partner understands payment occurs only after Dos Manos is paid | Yes / No |  |
-| Same-business-day quote response expectation reviewed internally | Yes / No |  |
+| Same-business-day quote response expectation reviewed by management | Yes / No |  |
 | COI/additional insured process reviewed if partner often requires it | Yes / No |  |
 
 Do not treat a partner as active until tracking and payout handling are clear.
@@ -234,14 +234,14 @@ Required source tag patterns:
 
 Use one naming pattern consistently. Do not let each operator invent their own source labels.
 
-Setup ownership: Bryan owns final launch approval, operational routing, and dispatch process. Website, forms, phone, source tags, and reporting setup may be handled by Alex/admin or another delegated person.
+Setup ownership: Bryan Abrego owns final launch approval, operational routing, and dispatch process. Website, forms, phone, source tags, and reporting setup may be handled by assigned administrative support or another delegated person.
 
 ## Centralized Operations Responsibilities
 
 Dos Manos central operations controls:
 
 - Brand standards.
-- Pricing guidelines.
+- Dos Manos Pricing Policy.
 - Supermove.
 - Dispatch.
 - Billing and collections.
@@ -306,7 +306,7 @@ These are operating targets, not legal guarantees. If the team cannot meet one, 
 | Territory boundaries approved |  |  |  |
 | Territory Operator assigned |  |  |  |
 | Territory phone number active |  |  |  |
-| Website page drafted and approved |  |  |  |
+| Website page prepared and approved |  |  |  |
 | Quote form active and tracked |  |  |  |
 | Supermove sources created |  |  |  |
 | QuickBooks/payment tagging confirmed |  |  |  |
@@ -316,7 +316,7 @@ These are operating targets, not legal guarantees. If the team cannot meet one, 
 | Dispatch process confirmed |  |  |  |
 | Billing and collection process confirmed |  |  |  |
 | Claims escalation process confirmed |  |  |  |
-| Pricing guideline confirmed |  |  |  |
+| Pricing Policy confirmed |  |  |  |
 | Insurance/licensing review completed |  |  |  |
 | COI / additional insured request process confirmed |  |  |  |
 | Interstate move escalation rule confirmed |  |  |  |
@@ -328,7 +328,7 @@ These are operating targets, not legal guarantees. If the team cannot meet one, 
 | Day / step | Action | Owner | Notes |
 | --- | --- | --- | --- |
 | Before public launch | Confirm phone, form, page, Supermove source, and QuickBooks/payment tagging. | Operations/accounting |  |
-| Before public launch | Confirm service area, pricing guideline, ICC/interstate escalation, insurance, and COI process. | Management/operations |  |
+| Before public launch | Confirm service area, Pricing Policy, ICC/interstate escalation, insurance, and COI process. | Management/operations |  |
 | Day 1 | Publish approved public copy and activate approved tracking channels. | Marketing/management |  |
 | Day 1 | Review lead response expectations with Territory Operator. | Manager responsible |  |
 | Days 1-3 | Test every inbound channel and confirm leads enter the right record/source. | Operations |  |
@@ -357,7 +357,7 @@ Do not use language that promises independent ownership, separate business right
 
 Public copy should also avoid positioning Dos Manos as the cheapest mover or as luxury-only. The preferred position is quality-focused and value-driven: careful crews, clear communication, reliable execution, and fair pricing.
 
-Approval rule: Bryan approves final public copy, service area, operations accuracy, and launch timing. Alex may support copy, brand, and legal-risk review where assigned.
+Approval rule: Bryan Abrego approves final public copy, service area, operations accuracy, and launch timing. Alex Heinz may support copy, brand, and legal-risk review where assigned.
 
 ## Proof And Review Language
 
@@ -434,7 +434,7 @@ Management should consider pausing, adjusting, or reassigning a territory if:
 - Territory leads are not being tracked cleanly.
 - The Territory Operator is not using Supermove or reporting accurately.
 - Customer communication is damaging trust.
-- Pricing guidelines are not being followed.
+- The Dos Manos Pricing Policy is not being followed.
 - Avoidable damage, claims, or complaints increase.
 - Referral partners receive poor response or unclear communication.
 - The territory overloads dispatch, crews, trucks, billing, or claims handling.
@@ -444,7 +444,7 @@ Management should consider pausing, adjusting, or reassigning a territory if:
 
 Use the First 30-Day Territory Review and Operator Performance Tracker before making a final decision when practical.
 
-## Internal Acceptance Check
+## Distribution Readiness Check
 
 The territory should be ready to advertise and track as a separate Dos Manos location while still being centrally managed.
 
@@ -460,7 +460,7 @@ Before launch, management should confirm:
 - No language creates an ownership or separate-business implication.
 - The first 30-day territory review is scheduled before public launch.
 
-## Final Review Items
+## Professional Review Requirements
 
 - Confirm whether any new territory, phone number, page, listing, truck use, storage, or operating address creates licensing, insurance, tariff, or regulatory requirements.
 - Confirm whether local listing language is acceptable for a centrally managed Advertised Location.
@@ -471,7 +471,7 @@ Before launch, management should confirm:
 - Confirm referral partner payment language, W-9 process, and 1099-NEC handling before launch.
 - Confirm interstate moves are not treated as covered by Illinois intrastate authority alone.
 
-Research notes:
+References:
 
 - Illinois Commerce Commission household goods mover requirements: https://icc.illinois.gov/authority/household-goods-movers
 - Illinois Commerce Commission Applicant's Handbook for Household Goods Moving Service within Illinois: https://icc.illinois.gov/downloads/public/mc/HHGHandbook.pdf

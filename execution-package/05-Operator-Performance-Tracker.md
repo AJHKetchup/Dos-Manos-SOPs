@@ -1,6 +1,6 @@
 # Operator Performance Tracker
 
-Markdown tracker for weekly activity, monthly review, and stage decisions.
+Company tracker for weekly activity, monthly review, and stage decisions.
 
 Use during the Operator Track and Territory Operator stage. The tracker is the evidence base for territory assignment, pause/removal decisions, and later Formal Location review.
 
@@ -16,7 +16,7 @@ Use during the Operator Track and Territory Operator stage. The tracker is the e
 | Territory, if assigned |  |
 | First monthly review date |  |
 | Supermove access confirmed | Yes / No |
-| QuickBooks/payment verification contact | Alex/bookkeeper unless otherwise assigned |
+| QuickBooks/payment verification contact | assigned accounting contact unless otherwise assigned |
 
 ## Weekly Activity
 
@@ -67,7 +67,7 @@ This is a coaching guide, not an automatic promotion standard.
 | Supermove discipline | Lead sources, job notes, follow-ups, and issues are entered or reported on time. |
 | Follow-up | Open quotes are followed up without pressure or spam. |
 | Quality | Jobs are handled with care, documentation, and few avoidable issues. |
-| Pricing | Participant follows guidelines and asks before guessing. |
+| Pricing | Participant follows the Dos Manos Pricing Policy and asks before guessing. |
 | Referral work | Participant makes professional, trackable contacts with relevant local partners. |
 | Accountability | Participant brings up problems early and asks for help before damage spreads. |
 
@@ -79,7 +79,7 @@ This is a coaching guide, not an automatic promotion standard.
 | Supermove discipline | Leads, follow-ups, or issues are missing from the approved record. |
 | Follow-up | Customer follow-up is either absent or too aggressive. |
 | Quality | Same types of customer issues, damage, or crew concerns repeat. |
-| Pricing | Participant discounts, guesses, or avoids pricing guidelines. |
+| Pricing | Participant discounts, guesses, or avoids the Dos Manos Pricing Policy. |
 | Referral work | Participant promises referral payment before setup is approved. |
 | Accountability | Participant hides problems, blames others, or waits for management to discover issues. |
 
@@ -224,7 +224,7 @@ Use this snapshot at the start of each monthly review.
 | Is revenue collected cleanly? | Paid with limited issues | Some collection friction | Unpaid balances, chargebacks, or disputes |  |
 | Is Supermove complete? | Records are timely and useful | Some missing fields | Records are late or unreliable |  |
 | Is job quality protected? | Low issues, strong feedback | Minor correctable issues | Repeated complaints, claims, or damage |  |
-| Is pricing disciplined? | Follows guidelines | Needs coaching | Discounts, guesses, or misquotes |  |
+| Is pricing disciplined? | Follows the Dos Manos Pricing Policy | Needs coaching | Discounts, guesses, or misquotes |  |
 | Is the operator coachable? | Improves after feedback | Mixed response | Defensive or avoids accountability |  |
 
 ## Readiness Review
@@ -232,9 +232,9 @@ Use this snapshot at the start of each monthly review.
 | Readiness question | Yes/No | Evidence |
 | --- | --- | --- |
 | Participant consistently tracks leads in Supermove or the approved process. |  |  |
-| Participant has enough documented booking, customer, field, and reporting evidence for Bryan to judge territory readiness. |  |  |
+| Participant has enough documented booking, customer, field, and reporting evidence for Bryan Abrego to judge territory readiness. |  |  |
 | Participant books jobs that fit Dos Manos standards. |  |  |
-| Participant follows pricing guidelines. |  |  |
+| Participant follows the Dos Manos Pricing Policy. |  |  |
 | Participant communicates professionally with customers. |  |  |
 | Participant protects job quality in the field. |  |  |
 | Participant leads crews well. |  |  |
@@ -269,8 +269,8 @@ Select one:
 | Required improvements |  |
 | Territory considered, if any |  |
 | Manager responsible |  |
-| Alex review, if assigned | Yes / No / N/A |
-| Bryan final approval, if territory assignment, removal, or revenue-share exception is involved | Yes / No |
+| Alex Heinz review, if assigned | Yes / No / N/A |
+| Bryan Abrego final approval, if territory assignment, removal, or revenue-share exception is involved | Yes / No |
 | Next review date |  |
 
 Stage decisions should be made by management, not by the participant. The participant may provide comments, but territory assignment, pause, removal, and promotion decisions remain Dos Manos decisions.
@@ -307,11 +307,11 @@ Use this when the participant is new to the Operator Track or newly assigned to 
 | 60 days | Booking consistency, follow-up, referral activity, pricing discipline | Continue / adjust / pause |  |
 | 90 days | Readiness for next stage, territory consideration, or improvement plan | Continue / improve / assign territory / pause / remove |  |
 
-## Internal Acceptance Check
+## Distribution Readiness Check
 
 Management should be able to look at this tracker and decide whether the participant is ready for a territory.
 
-Before using it, management should confirm:
+Before distribution, management confirms:
 
 - The weekly reporting deadline is clear.
 - The manager responsible reviews it monthly.
@@ -319,9 +319,9 @@ Before using it, management should confirm:
 - Claims and customer issues are reviewed before promotion.
 - Stage decisions are documented.
 - Territory assignment decisions are not made without reviewing this tracker.
-- Territory assignment is not contingent on a fixed number of completed jobs. The tracker should show enough evidence for Bryan to judge operator readiness, company expansion readiness, market fit, and operating capacity.
+- Territory assignment is not contingent on a fixed number of completed jobs. The tracker should show enough evidence for Bryan Abrego to judge operator readiness, company expansion readiness, market fit, and operating capacity.
 
-## Final Review Items
+## Professional Review Requirements
 
 - If converted to a spreadsheet, lock formula cells and standardize date, currency, and stage-decision fields.
 - Confirm who has access to performance records.

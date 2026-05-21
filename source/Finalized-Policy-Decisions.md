@@ -1,8 +1,8 @@
 # Finalized Policy Decisions
 
-Source-of-truth update based on Alex Heinz's final answers on May 21, 2026.
+Governing policy decisions approved for company use.
 
-Use this file to resolve ambiguities in the execution package. These decisions override older working defaults that conflict with them.
+Use this file to resolve ambiguities in the execution package. These decisions override older prior defaults that conflict with them.
 
 ## Locked Decisions
 
@@ -10,13 +10,13 @@ Use this file to resolve ambiguities in the execution package. These decisions o
 
 2. Territory documents must be evergreen. Do not write the package around a one-time first-territory decision. Use territory creation and placement guidelines. Current location context: Dos Manos calls its primary location Naperville. The secondary advertised location currently being advertised is River Grove.
 
-3. The current pricing sheet is a baseline, not the complete pricing policy. A more detailed pricing policy is pending Bryan Abrego's answers on rate selection, mileage rules, minimums, materials, discounts, specialty items, estimate workflow, and revenue-share base.
+3. Detailed pricing rules belong in the separate Dos Manos Pricing Policy. The Accelerated Management Program documents should reference the current CEO-approved Pricing Policy instead of trying to finalize rate rules inside the program package.
 
 4. Bryan Abrego is CEO and final authority for pricing, discounts, operational exceptions, special pricing, revenue-share eligibility, partial-payment treatment, claims, refunds, repairs, settlements, denials, insurance submissions, referral payout approval, and territory/program decisions unless he delegates authority in writing.
 
-5. Revenue-share payment timing may vary by company process. Approved timing methods may include next regular payroll, month-end, a scheduled accounting/payment run, or another Bryan-approved payout cycle. The required controls are job completion, collected revenue confirmation, attribution approval, and Bryan approval where required.
+5. Revenue-share payment timing may vary by company process. Approved timing methods may include next regular payroll, month-end, a scheduled accounting/payment run, or another CEO-approved payout cycle. The required controls are job completion, collected revenue confirmation, attribution approval, and Bryan Abrego approval where required.
 
-6. Partially paid jobs are handled by Bryan's decision. Do not create an automatic partial-payment revenue-share rule.
+6. Partially paid jobs are handled by Bryan Abrego's decision. Do not create an automatic partial-payment revenue-share rule.
 
 7. Bryan Abrego has final authority over claims, refunds, repairs, settlements, denials, insurance submissions, and whether a claim or customer issue affects revenue-share eligibility. Operators cannot promise claim outcomes.
 
@@ -26,9 +26,9 @@ Use this file to resolve ambiguities in the execution package. These decisions o
 
 10. Formal Location review requires at least six months of territory activity, plus enough real evidence to judge collected revenue, job quality, claims, reviews, lead-source diversity, crew/truck coverage, reporting discipline, and operator readiness.
 
-## Current Pricing Snapshot
+## Current Pricing Reference
 
-Internal baseline only. Bryan's complete pricing policy is still pending.
+The current price sheet is the operating pricing reference until Bryan Abrego approves the separate Dos Manos Pricing Policy. Operators must follow that pricing reference, the $450 minimum job revenue / minimum job cost, and management approval for discounts, special pricing, unusual scope, or pricing exceptions.
 
 ### Local Moves - Hourly Ranges
 
@@ -67,9 +67,9 @@ $150 flat + $2.25 per mile.
 - Mid range = standard jobs.
 - High end = tight schedule / high demand.
 
-## Pending Bryan Pricing Policy Inputs
+## Pricing Policy Build Questions
 
-Do not invent these rules. The execution package should say the operator must follow the current Bryan-approved pricing policy until these are finalized.
+Do not invent these rules inside the execution package. The execution package should say the Operator must follow the current CEO-approved Pricing Policy. The pricing questions belong in `Pricing-Policy-Build-Questions.md` and in the separate Dos Manos Pricing Policy.
 
 - Final authority for choosing the rate inside each range.
 - Whether the low end requires approval.
@@ -80,4 +80,4 @@ Do not invent these rules. The execution package should say the operator must fo
 - Which charges are included in the 10% revenue-share base.
 - How materials, packing, specialty items, stairs, elevators, long carries, multiple stops, and heavy items are charged.
 - Deposit, cancellation, reschedule, card fee, and billing-after-service rules.
-- Which jobs require photos, video, written inventory, in-person estimate, or Bryan review before quoting.
+- Which jobs require photos, video, written inventory, in-person estimate, or Bryan Abrego review before quoting.
