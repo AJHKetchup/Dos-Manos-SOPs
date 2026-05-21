@@ -2,15 +2,15 @@
 
 Internal packet for deciding whether a territory is ready to become a more separated Dos Manos location.
 
-Use after the Territory Assignment and Launch Packet has been active long enough to produce meaningful evidence. This packet should rely on Supermove, QuickBooks/accounting records, claims/customer records, review activity, referral activity, and management observations.
+Use only after the Territory Assignment and Launch Packet has been active for at least six months and has produced meaningful evidence. This packet should rely on Supermove, QuickBooks/accounting records, claims/customer records, review activity, referral activity, and management observations.
 
 ## Purpose
 
 This packet helps management decide whether a territory is ready for more investment, more separation, General Manager promotion, or location-level opportunity review.
 
-Use this only after a territory has meaningful activity. Do not use it to promise a Formal Location, General Manager role, ownership, buy-in, cash-flow participation, or profit participation.
+Use this only after a territory has at least six months of meaningful activity. Do not use it to promise a Formal Location, General Manager role, ownership, buy-in, cash-flow participation, or profit participation.
 
-Working review authority: Alex, Bryan, and the bookkeeper/CPA review location-level economics. Alex and Bryan approve any General Manager promotion. Any cash-flow participation, profit participation, phantom equity, buy-in, ownership, or other economic structure requires ownership-group approval with attorney and CPA review.
+Review authority: Bryan has final authority over Formal Location review and General Manager promotion unless delegated in writing. The bookkeeper/CPA should support location-level economics review. Any cash-flow participation, profit participation, phantom equity, buy-in, ownership, or other economic structure requires Bryan / ownership-group approval with attorney and CPA review.
 
 ## Territory Summary
 
@@ -23,6 +23,7 @@ Working review authority: Alex, Bryan, and the bookkeeper/CPA review location-le
 | Manager responsible |  |
 | Current operating model | Centrally managed / Advertised Location / Other |
 | Recommended decision |  |
+| At least six months of territory activity | Yes / No |
 | Supermove reporting complete | Yes / No |
 | QuickBooks collected revenue reconciled | Yes / No |
 | Primary operating base or asset plan |  |
@@ -41,6 +42,7 @@ Attach or link the records management used for this review.
 | Referral partner activity | Referral tracker / Supermove | Yes / No |
 | Crew and truck coverage notes | Operations | Yes / No |
 | Insurance / COI / licensing review | Management / insurance / counsel | Yes / No |
+| Six-month activity history | Supermove / accounting / operations | Yes / No |
 
 ## Revenue History
 
@@ -187,6 +189,7 @@ A territory should not move toward Formal Location status unless these gates are
 
 | Gate | Ready? | Evidence |
 | --- | --- | --- |
+| Six-month gate | Yes / No | At least six months of territory activity. |
 | Revenue gate | Yes / No | Consistent booked, completed, and collected revenue. |
 | Quality gate | Yes / No | Strong job quality, low avoidable claims, and acceptable customer feedback. |
 | Operations gate | Yes / No | Reliable crew, truck, dispatch, billing, collections, and claims support. |
@@ -214,7 +217,7 @@ A territory should not move toward Formal Location status unless these gates are
 
 Suggested interpretation:
 
-- Mostly green: consider increased investment, dedicated assets, Formal Location review, or General Manager path.
+- Mostly green after at least six months of activity: consider increased investment, dedicated assets, Formal Location review, or General Manager path.
 - Mixed green/yellow: keep centrally managed and focus on the weakest gates.
 - Any major red in trust, quality, claims, collected revenue, or compliance: do not promote until corrected.
 
@@ -274,6 +277,7 @@ Use this section when the answer is "not yet." A weak readiness review should pr
 | Field | Entry |
 | --- | --- |
 | Recommended decision |  |
+| At least six months of territory activity | Yes / No |
 | Main reason |  |
 | Main risk |  |
 | Required improvements |  |

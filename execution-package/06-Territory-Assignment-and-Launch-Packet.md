@@ -2,7 +2,7 @@
 
 Use this packet only after a participant earns a territory.
 
-Use with the Operator Performance Tracker. A territory should not be assigned because of enthusiasm alone; it should be assigned after documented performance, judgment, and trust.
+Use with the Operator Performance Tracker. A territory should not be assigned because of enthusiasm alone or a fixed job-count threshold. It should be assigned after documented performance, judgment, trust, company readiness to expand, market fit, operating capacity, and Bryan approval.
 
 ## Purpose
 
@@ -10,9 +10,7 @@ This packet assigns a territory, defines tracking channels, and launches the ter
 
 The goal is to make the territory visible, trackable, and accountable without creating confusion about ownership, separate business rights, or operational control.
 
-Dos Manos' first operating base is in DuPage County, and early territory planning may include DuPage-area markets, North Chicago / north-side markets, and nearby Chicago suburban markets. Territory design should protect quality and operational control before expansion speed.
-
-Working first territory to consider: North Side / North Shore Chicago. Safer pilot alternative: a defined DuPage / West Suburbs territory if Dos Manos wants less operational expansion risk.
+Territory design should protect quality and operational control before expansion speed. This packet is evergreen and should not be written around a one-time first-territory decision. Current location context: Dos Manos calls its primary location Naperville, and the secondary advertised location currently being advertised is River Grove. Future territories should be created based on market fit, operator readiness, company expansion readiness, trackable channels, and operating capacity.
 
 ## Territory Assignment
 
@@ -33,7 +31,7 @@ Working first territory to consider: North Side / North Shore Chicago. Safer pil
 
 | Evidence question | Response |
 | --- | --- |
-| Has the participant personally brought in or booked at least 3-5 approved jobs? |  |
+| Is there enough documented booking, customer, field, and reporting evidence for Bryan to judge territory readiness? |  |
 | Are there any major unresolved complaints or serious avoidable claims? |  |
 | Has the participant shown clean Supermove usage and weekly reporting? |  |
 | What Operator Performance Tracker evidence supports territory assignment? |  |
@@ -42,6 +40,23 @@ Working first territory to consider: North Side / North Shore Chicago. Safer pil
 | What referral or local demand evidence supports territory assignment? |  |
 | What concerns remain? |  |
 | Why is management comfortable assigning a territory now? |  |
+
+
+## Territory Creation And Placement Guidelines
+
+Use these guidelines before assigning or advertising any territory.
+
+A territory should be considered only when:
+
+- Bryan is comfortable with the operator representing Dos Manos locally.
+- The operator has shown customer judgment, pricing discipline, service quality, documentation discipline, crew leadership, and trust.
+- Dos Manos is prepared to expand or advertise that market.
+- The market has a believable base of quality-focused customers and referral partners.
+- Crew, truck, dispatch, billing, claims, and customer-service capacity can support the territory.
+- Inbound channels can be tracked cleanly through phone, page, form, social, ads, referrals, and Supermove.
+- Public listing, licensing, insurance, ICC, interstate, and address issues have been reviewed.
+
+Territory assignment is not a reward for hitting a fixed job count. It is a business decision based on operator readiness and company readiness.
 
 ## Territory Boundaries
 
@@ -59,7 +74,7 @@ Use one or more:
 
 If the territory is based on expansion planning, note whether the market has a strong base of middle to upper-middle-income customers, homes above the company's target value threshold, referral density, or practical truck/crew access.
 
-Working North Side / North Shore boundary draft: Chicago North Side plus Evanston, Skokie, Wilmette, Winnetka, Glenview, Northbrook, Highland Park, Lake Forest, and nearby affluent suburbs. Tighten the map before launch.
+Use current locations such as Naperville and River Grove as examples of advertised-location naming and tracking, not as automatic templates for every future territory. Each new territory needs its own approved boundaries, tracking channels, service capacity review, and public listing review before launch.
 
 ## Market Fit Screen
 
@@ -168,7 +183,7 @@ Dos Manos may pay approved referral partners or affiliates, generally 5% of the 
 
 If a territory lead could also qualify for participant revenue share, management should decide and document whether the referral payout, territory attribution, and participant revenue share stack, split, or require another approved treatment.
 
-Working stacking rule: the 5% referral partner fee and 10% Territory Operator revenue share may stack only when both are approved, tracked, and the referral source is an approved territory channel.
+Stacking rule: the 5% referral partner fee and 10% Territory Operator revenue share may stack only when Bryan approves, both are tracked, and the referral source is an approved territory channel.
 
 ## Referral Partner Setup Checklist
 
@@ -219,7 +234,7 @@ Required source tag patterns:
 
 Use one naming pattern consistently. Do not let each operator invent their own source labels.
 
-Setup ownership: Alex/admin owns website, forms, phone, source tags, and reporting structure. Bryan owns operational routing and dispatch process.
+Setup ownership: Bryan owns final launch approval, operational routing, and dispatch process. Website, forms, phone, source tags, and reporting setup may be handled by Alex/admin or another delegated person.
 
 ## Centralized Operations Responsibilities
 
@@ -342,7 +357,7 @@ Do not use language that promises independent ownership, separate business right
 
 Public copy should also avoid positioning Dos Manos as the cheapest mover or as luxury-only. The preferred position is quality-focused and value-driven: careful crews, clear communication, reliable execution, and fair pricing.
 
-Approval rule: Alex approves public copy for brand, business, and legal-risk language. Bryan approves service area and operations accuracy before launch.
+Approval rule: Bryan approves final public copy, service area, operations accuracy, and launch timing. Alex may support copy, brand, and legal-risk review where assigned.
 
 ## Proof And Review Language
 

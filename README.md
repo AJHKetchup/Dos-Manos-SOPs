@@ -12,9 +12,10 @@ Use these files first:
 2. `source/Execution-Package-Plan.md` - build order and acceptance standards for the execution package.
 3. `source/Company-Facts.md` - Dos Manos company context, systems, market facts, brand positioning, referral program facts, and financial planning context.
 4. `source/Rollout-Answers.md` - working rollout defaults for authority, payroll, Supermove, QuickBooks, claims, compliance, referral, territory, and formal-location decisions.
-5. `source/Remaining-Completion-Questions.md` - final unanswered questions needed before live-use completion.
-6. `source/Research-Notes.md` - research-backed drafting inputs for communication, persuasion, service recovery, reviews, and safety.
-7. `AGENTS.md` - repo-level drafting rules for agents working on the program.
+5. `source/Finalized-Policy-Decisions.md` - locked final policy decisions that override older working defaults where they conflict.
+6. `source/Remaining-Completion-Questions.md` - final unanswered questions needed before live-use completion.
+7. `source/Research-Notes.md` - research-backed drafting inputs for communication, persuasion, service recovery, reviews, and safety.
+8. `AGENTS.md` - repo-level drafting rules for agents working on the program.
 
 ## Execution package build order
 

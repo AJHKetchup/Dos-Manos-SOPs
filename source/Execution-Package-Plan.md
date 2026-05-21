@@ -8,7 +8,7 @@ This plan tells agents what to build, what order to build it in, and what each d
 
 The goal is to create the minimum document set needed to operate the Dos Manos Moving Accelerated Management Program without creating unnecessary paperwork.
 
-Use `Company-Facts.md`, `Rollout-Answers.md`, and `Remaining-Completion-Questions.md` to keep the package specific to Dos Manos Moving, including Chicago / DuPage market context, Supermove, QuickBooks, The Quality Moving Company positioning, referral program facts, operational compliance context, approval roles, tracking defaults, first-rollout working answers, and true remaining completion gaps.
+Use `Company-Facts.md`, `Rollout-Answers.md`, `Finalized-Policy-Decisions.md`, and `Remaining-Completion-Questions.md` to keep the package specific to Dos Manos Moving, including Chicago / DuPage market context, Supermove, QuickBooks, The Quality Moving Company positioning, referral program facts, operational compliance context, approval roles, tracking defaults, locked final policy decisions, and true remaining completion gaps.
 
 Agents should build practical working drafts that Dos Manos can actually use to select qualified candidates, train them to book and run jobs, track their leads, activity, and performance, pay the 10% collected revenue share correctly, assign territories after proof of performance, advertise territories as trackable Dos Manos locations, decide when a territory is ready to become a formal location, and protect Dos Manos legally, operationally, and financially.
 

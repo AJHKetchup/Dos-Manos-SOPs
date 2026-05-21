@@ -6,7 +6,7 @@ Use after the candidate has reviewed the Program Brief and before they receive t
 
 ## Approval Roles
 
-Alex Heinz and Bryan Abrego jointly approve candidate acceptance, hold, or rejection. Bryan owns operational judgment and is the default first manager responsible for Operator Track execution. Alex reviews program-stage decisions, candidate-facing language, and revenue-share approval issues. Luis Abrego may provide operational input when involved, but central management should make the final program decision.
+Bryan Abrego gives final approval on candidate acceptance, hold, or rejection unless he delegates authority in writing. Bryan is CEO, owns operational judgment, and is the default first manager responsible for Operator Track execution. Alex Heinz may support program documentation, candidate-facing language, tracking, and administrative setup where assigned. Luis Abrego may provide operational input when involved, but Bryan makes the final program decision unless delegated.
 
 Selection scores are a pilot management standard, not a legal entitlement or automatic acceptance rule. Management may hold or reject a candidate when trust, judgment, safety, customer communication, or operational concerns outweigh the numeric score.
 
@@ -52,7 +52,7 @@ Select one:
 
 Outside hires may bring useful sales, management, or customer-service experience, but they still must prove Dos Manos-specific judgment, service standards, Supermove discipline, and field reality before territory assignment.
 
-Outside hires should not start as active Operator Track participants until normal hiring, background, safety, and driver qualification steps are complete.
+Outside hires should not start as active Operator Track participants until normal hiring, background, safety, driver qualification steps where applicable, and a probationary field period are complete.
 
 ## Prerequisite Evidence
 
@@ -68,6 +68,7 @@ Complete before acceptance or mark not applicable.
 | Safety orientation complete | Complete / Pending / N/A |  |
 | Household-goods movement training complete | Complete / Pending / N/A |  |
 | Trainee supervision plan set, if needed | Complete / Pending / N/A |  |
+| Probationary field period completed, if outside hire | Complete / Pending / N/A |  |
 | Supermove access or reporting process ready | Complete / Pending / N/A |  |
 | Candidate acknowledgment signed | Complete / Pending / N/A |  |
 
@@ -83,7 +84,7 @@ Complete before acceptance or mark not applicable.
 | Candidate understands that the program does not guarantee a territory or promotion. |  |  |
 | Candidate is ready to sign the program acknowledgment before starting. |  |  |
 | Candidate understands Dos Manos is quality-focused, not lowest-cost. |  |  |
-| Required hiring, background check, driver qualification, safety, and household-goods training prerequisites are complete or not applicable. |  |  |
+| Required hiring, background check, driver qualification, safety, household-goods training, and outside-hire probationary field period prerequisites are complete or not applicable. |  |  |
 
 If any answer is `No`, management should usually hold or reject the candidate unless there is a clear reason to continue.
 
@@ -154,8 +155,8 @@ Minimum screen failures should outweigh a high average score.
 | Minimum entry screen passed? | Yes / No |
 | Suggested decision from score | Accept / Hold / Reject |
 | Manager final decision | Accept / Hold / Reject |
-| Alex approval | Yes / No |
-| Bryan approval | Yes / No |
+| Alex review, if assigned | Yes / No / N/A |
+| Bryan final approval | Yes / No |
 
 ## Practical Interview Questions
 
@@ -326,7 +327,7 @@ Before accepting a candidate, confirm:
 
 - Review selection criteria for employment law compliance before use.
 - Do not ask questions about protected personal characteristics, family status, disability, age, religion, national origin, or other non-job-related matters.
-- If this form is used for outside hires, confirm it aligns with Dos Manos hiring, background check, driving, and employment eligibility procedures.
+- If this form is used for outside hires, confirm it aligns with Dos Manos hiring, background check, driving, employment eligibility, safety, and probationary field period procedures.
 - If the candidate may drive, confirm driver qualification, insurance, safety, and vehicle-policy requirements before assigning driving responsibility.
 - Confirm required household-goods movement training is complete before the candidate is used as a driver, helper, or packer on Illinois household goods shipments; any trainee should be supervised by a trained employee.
 

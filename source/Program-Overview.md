@@ -56,7 +56,7 @@ The candidate does not receive a territory on day one. The first test is whether
 
 ### Stage 3 - Territory Assignment
 
-After proving the basics, Dos Manos may assign the participant a defined territory. At this stage, the participant becomes a Territory Operator.
+After proving the basics, Dos Manos may assign the participant a defined territory. Territory assignment is not contingent on a fixed number of completed jobs. It depends on a mix of signals, including operator readiness, trust, customer judgment, pricing discipline, service quality, documentation discipline, company readiness to expand, market fit, dispatch capacity, crew/truck capacity, claims risk, and Bryan Abrego's final judgment. At this stage, the participant becomes a Territory Operator.
 
 The territory gives the operator a defined market to build, but the business is still operated under Dos Manos' central system. The Territory Operator is responsible for building local demand, relationships, and reputation while Dos Manos maintains control over the core operating structure.
 
@@ -66,13 +66,13 @@ Once a territory is assigned, Dos Manos may begin advertising that market as a s
 
 The location can be advertised externally before it is operationally separated. Public-facing examples may include `Dos Manos Moving - Now Serving [Territory]` or `Dos Manos Moving of [Territory]`.
 
-Each advertised territory should have trackable inbound channels, which may include a separate phone number, dedicated website page, dedicated quote form, territory-specific social media, local ads, referral partner tracking, and Supermove source tracking.
+Each advertised territory should have trackable inbound channels, which may include a separate phone number, dedicated website page, dedicated quote form, territory-specific social media, local ads, referral partner tracking, and Supermove source tracking. Current location context: Dos Manos calls its primary location Naperville, and the secondary advertised location currently being advertised is River Grove. Future territory documents should use evergreen territory creation and placement guidelines.
 
 Although the territory is advertised as a local Dos Manos location, operations remain centrally managed until the location is ready to stand on its own.
 
 ### Stage 5 - Formal Location
 
-A territory becomes a Formal Location when it has enough operating strength to justify a more separated structure.
+A territory becomes a Formal Location when it has at least six months of activity and enough operating strength to justify a more separated structure.
 
 A Formal Location should have consistent booked and completed revenue, consistent collected revenue, reliable crew coverage, strong job quality, positive customer reviews, low avoidable damage or claims, consistent local lead sources, a capable Territory Operator or General Manager, dedicated assets or reliable truck access, clean reporting, and enough margin to support location-level management.
 
@@ -102,7 +102,7 @@ In addition, participants may receive 10% of collected revenue on approved jobs.
 
 Normal field pay and program revenue share are separate. A participant may be paid for field work performed even when a job is not eligible for the 10% revenue share.
 
-This is the current program compensation structure. Future compensation arrangements may change based on the participant's stage, role, territory, location maturity, and company policy.
+This is the current program compensation structure. Future compensation arrangements may change based on the participant's stage, role, territory, location maturity, and company policy. Revenue-share payment timing may vary by company process and may use next payroll, month-end, scheduled accounting run, or another Bryan-approved payout cycle. Partially paid jobs, claim issues, refund issues, and unusual payout treatment require Bryan approval.
 
 ## Lead Tracking and Territory Attribution
 
@@ -122,7 +122,7 @@ This structure gives the operator responsibility for local growth while Dos Mano
 
 ## Promotion Criteria
 
-Participants advance based on performance, judgment, and trust. Revenue matters, but revenue alone is not enough.
+Participants advance based on performance, judgment, trust, and company readiness. Revenue matters, but revenue alone is not enough. Territory assignment is not a job-count formula.
 
 Promotion criteria include reliability, customer communication, booking ability, pricing discipline, job quality, crew leadership, Supermove usage, follow-up discipline, referral activity, review generation, low damage rate, low complaint rate, coachability, ability to follow the approved Dos Manos process, ability to solve problems without creating larger problems, and trustworthiness with customers, crews, and company information.
 

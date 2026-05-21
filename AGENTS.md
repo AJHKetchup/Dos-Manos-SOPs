@@ -1,6 +1,6 @@
 # Agent Drafting Rules
 
-Use `source/Program-Overview.md`, `source/Execution-Package-Plan.md`, `source/Company-Facts.md`, `source/Rollout-Answers.md`, `source/Remaining-Completion-Questions.md`, and `source/Research-Notes.md` as the source of truth.
+Use `source/Program-Overview.md`, `source/Execution-Package-Plan.md`, `source/Company-Facts.md`, `source/Rollout-Answers.md`, `source/Finalized-Policy-Decisions.md`, `source/Remaining-Completion-Questions.md`, and `source/Research-Notes.md` as the source of truth.
 
 Build only documents that support a decision, payment, training step, territory launch, performance review, or legal/business control.
 
@@ -30,3 +30,19 @@ When refining documents:
 - Tie promotion and territory decisions to the Operator Performance Tracker.
 - Keep legal, tax, payroll, insurance, ICC, interstate, and franchise issues in review sections unless they are plain operational controls.
 - After edits, check for table formatting, non-ASCII artifacts, vague "system" wording, and prohibited filler terms.
+
+
+## Finalized Policy Controls
+
+Apply these controls when drafting or refining any program document:
+
+- Territory assignment is not contingent on a fixed number of completed jobs. Use readiness, trust, company expansion capacity, market fit, and Bryan Abrego's final judgment.
+- Territory documents must be evergreen. Current location context: Naperville is the primary location and River Grove is the secondary advertised location.
+- Bryan Abrego is CEO and final authority unless he delegates authority in writing.
+- Outside hires must complete a probationary field period before Operator Track acceptance.
+- Revenue-share timing may be next payroll, month-end, scheduled accounting run, or another Bryan-approved payout cycle.
+- Partial-payment revenue-share treatment is Bryan's decision.
+- Claims, refunds, repairs, settlements, denials, insurance submissions, and claim impact on revenue share are Bryan's decision.
+- Referral partners are paid at month end for now through a W-9-backed process with proper tracking.
+- Formal Location review requires at least six months of territory activity.
+- The current pricing sheet is a baseline only; do not invent the deeper pricing policy while Bryan's answers are pending.

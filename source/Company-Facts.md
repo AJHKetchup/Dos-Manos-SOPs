@@ -8,9 +8,9 @@ These facts are supplied working context for drafting. Items involving ownership
 
 Dos Manos Moving is a moving company based in the Chicago MSA. The company's first operating base is in DuPage County, and Dos Manos serves Chicago, DuPage County, and surrounding suburban markets.
 
-The company has discussed adding a North Chicago / north-side location and another DuPage-area location as part of its local expansion strategy.
+Dos Manos currently calls its primary location Naperville. The secondary advertised location currently being advertised is River Grove. Future territory documents should be evergreen and should use territory creation and placement guidelines instead of being written around a one-time first-territory decision.
 
-Dos Manos was formed from the merger of Alex's prior moving company, The Happy Movers, and Abrego All Pro Movers, run by the Abrego brothers. Known founders / core founders include Alex Heinz, Luis Abrego, and Bryan Abrego. Bryan has been referenced as the Operations Manager / key operations contact.
+Dos Manos was formed from the merger of Alex's prior moving company, The Happy Movers, and Abrego All Pro Movers, run by the Abrego brothers. Known founders / core founders include Alex Heinz, Luis Abrego, and Bryan Abrego. Bryan Abrego is CEO and the final operating authority for program pricing, discounts, claims/refunds, payout exceptions, territory decisions, and operational exceptions unless he delegates authority in writing.
 
 Dos Manos operates as an LLC / partnership for tax purposes. It uses QuickBooks for accounting and expects to file partnership tax returns, including Form 1065. Dos Manos uses Supermove as its CRM and job-management system. Supermove should be treated as the central job record whenever possible. QuickBooks Online has been discussed as connected to Supermove.
 
@@ -25,6 +25,41 @@ The company emphasizes quality over cheap pricing, not cutting corners, paying l
 The target customer includes middle to upper-middle-class professionals, families, and retirees. Dos Manos serves a broad customer base and wants customers to feel they are getting their money's worth regardless of job size.
 
 Dos Manos has discussed having dozens / 100+ five-star reviews across platforms. Known job examples include both high-end jobs, such as relocating the CEO of Fairlife, and smaller practical jobs, such as moving treadmills, couches, basement items, and similar customer needs.
+
+
+## Current Pricing Snapshot
+
+The current price sheet is internal-use only and is a baseline, not the complete pricing policy. A deeper pricing policy is pending Bryan Abrego's answers.
+
+Local moves, hourly ranges:
+
+| Crew size | Hourly range |
+| ---: | ---: |
+| 2 movers | $140-$155 |
+| 3 movers | $175-$190 |
+| 4 movers | $210-$225 |
+| 5 movers | $245-$260 |
+
+Labor-only, hourly ranges:
+
+| Crew size | Hourly range |
+| ---: | ---: |
+| 2 movers | $130-$145 |
+| 3 movers | $165-$180 |
+| 4 movers | $200-$215 |
+| 5 movers | $230-$245 |
+
+Truck and transportation fees:
+
+| Distance | Fee |
+| ---: | ---: |
+| 0-20 miles | $175 |
+| 20-30 miles | $225 |
+| 35+ miles | Special Pricing |
+
+U-Haul rental: $150 flat + $2.25 per mile.
+
+Current range rules: peak pricing if two bookings / capacity pressure, Chicago jobs, or more than 25 miles; low end = easy jobs; mid range = standard jobs; high end = tight schedule / high demand.
 
 ## Operations And Compliance
 
@@ -64,7 +99,7 @@ Dos Manos has an affiliate / referral program.
 
 Target affiliate types include real estate agents, loan officers, contractors, decorators, flooring contractors, property managers, and similar home-service or real-estate-adjacent professionals.
 
-The referral fee is generally 5% of the referred moving job and should be paid after Dos Manos is paid by the customer. A prior target payout timing was 7-10 business days after client payment.
+The referral fee is generally 5% of the referred moving job and should be paid after Dos Manos is paid by the customer. Finalized working payout timing is month end for now, through a W-9-backed process with proper tracking and approval.
 
 Affiliates may have a unique referral code, alias, or tracking source in the CRM. Dos Manos should collect W-9s from referral partners when appropriate. 1099-NEC treatment may be needed if referral payments meet reporting thresholds.
 

@@ -8,7 +8,7 @@ Use with:
 - `03-Revenue-Share-and-Lead-Attribution-Policy.md` before discussing payment details.
 - `04-Operator-Playbook.md` once the participant is accepted.
 
-Internal approval: Alex Heinz and Bryan Abrego jointly approve this brief before candidate-facing use. Alex approves candidate-facing language and business structure. Bryan approves operational reality.
+Internal approval: Bryan Abrego gives final approval before candidate-facing use. Alex Heinz may support candidate-facing language, program documentation, and administrative setup where assigned. Bryan is CEO and final operating authority unless he delegates authority in writing.
 
 ## Program Purpose
 
@@ -72,7 +72,7 @@ During the Operator Track, the participant works on:
 
 ## Territory Operator Path
 
-After a participant proves the basics, Dos Manos may assign a defined territory.
+After a participant proves the basics and Dos Manos is prepared to expand or advertise a market, Dos Manos may assign a defined territory. Territory assignment is not contingent on a fixed number of completed jobs.
 
 At that stage, the participant becomes a Territory Operator. The Territory Operator helps build local demand, local referral relationships, customer reviews, crew consistency, and local reputation in that market.
 
@@ -91,7 +91,7 @@ Each Advertised Location should use trackable channels, such as a territory phon
 
 This lets Dos Manos test local demand before committing full location overhead.
 
-Early territory candidates may include DuPage-area markets, North Chicago / north-side markets, or other Chicago-area suburban markets approved by management.
+Current location context: Dos Manos calls its primary location Naperville, and the secondary advertised location currently being advertised is River Grove. Future territories should be created using market-fit, operator-readiness, tracking, and operating-capacity guidelines, not a one-time first-territory plan.
 
 ## General Manager Path
 
@@ -122,7 +122,7 @@ Participants are paid normally for field work they perform.
 
 In addition, participants may receive 10% of collected revenue on approved jobs.
 
-Future compensation arrangements may change based on role, stage, territory, location maturity, and company policy.
+Future compensation arrangements may change based on role, stage, territory, location maturity, and company policy. Revenue-share payment timing may vary by company process and may use next payroll, month-end, scheduled accounting run, or another Bryan-approved payout cycle.
 
 ## Approved Jobs During The Operator Track
 
@@ -139,7 +139,7 @@ Deposits do not count as collected revenue. Refunds, chargebacks, unpaid balance
 
 ## What A Participant Must Prove Before Receiving A Territory
 
-Before Dos Manos considers territory assignment, the participant must show:
+Before Dos Manos considers territory assignment, the participant and the company must be ready. Territory assignment is not a job-count formula. The participant must show:
 
 - Reliable activity over time.
 - Ability to bring in or book quality jobs.
@@ -154,6 +154,8 @@ Before Dos Manos considers territory assignment, the participant must show:
 - Referral activity.
 - Trustworthiness with customers, crews, and company information.
 - Commitment to the Dos Manos quality-over-cheap-pricing position.
+- Bryan's confidence that the participant can represent Dos Manos locally.
+- Company readiness to support the territory with tracking, crews, trucks, dispatch, billing, claims handling, and service quality.
 
 Revenue matters, but revenue alone is not enough.
 
@@ -181,6 +183,7 @@ Pause or removal from the Accelerated Management Program is a program decision. 
 Do not say:
 
 - "You will get a territory if you do well."
+- "Once you book a certain number of jobs, you get a territory."
 - "This is basically ownership."
 - "This is basically your own local business."
 - "You are buying into the company."
@@ -191,7 +194,7 @@ Do not say:
 
 Better:
 
-- "Territory assignment is possible after documented performance, judgment, and trust."
+- "Territory assignment is possible after documented performance, judgment, trust, company readiness, and Bryan approval."
 - "The current structure may pay 10% of collected revenue on approved jobs."
 - "Any future location-level opportunity would require separate review, approval, and documentation."
 

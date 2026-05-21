@@ -18,7 +18,7 @@ Participants may also receive 10% of collected revenue on approved jobs, in addi
 
 Normal field pay and program revenue share should be treated as separate questions. A participant may be paid for field work performed even if a job does not qualify for the 10% revenue share.
 
-Working payroll default: for employees, treat the 10% as employee compensation through payroll, likely as commission, bonus, or supplemental wages, until CPA/payroll counsel gives final classification. Use the safer assumption that revenue share may affect overtime calculations for non-exempt employees until counsel/payroll confirms otherwise.
+Payroll default: for employees, treat the 10% as employee compensation through payroll, likely as commission, bonus, or supplemental wages, until CPA/payroll counsel gives final classification. Use the safer assumption that revenue share may affect overtime calculations for non-exempt employees until counsel/payroll confirms otherwise. Revenue-share timing may vary by company process and may use next regular payroll, month-end, scheduled accounting/payment run, or another Bryan-approved payout cycle.
 
 Future compensation arrangements may change based on role, stage, territory, location maturity, and company policy.
 
@@ -30,7 +30,7 @@ Collected revenue means revenue Dos Manos has actually been paid for the job und
 
 Supermove should be treated as the central job record whenever possible. QuickBooks or accounting records should confirm payment status, collected revenue, refunds, chargebacks, unpaid balances, and payment timing before revenue share is approved.
 
-Working verification default: Alex or the bookkeeper verifies payment in QuickBooks or the approved accounting record. Bryan confirms the job was completed properly and has no known major service issue. Alex and Bryan approve exceptions.
+Verification default: QuickBooks or the approved accounting record confirms payment. Bryan has final authority over eligibility, exceptions, partial-payment treatment, claims/refunds, and disputed attribution unless he delegates authority in writing.
 
 ## Accounting Control Points
 
@@ -50,8 +50,8 @@ Collected revenue does not include:
 - Amounts refunded to the customer.
 - Chargebacks.
 - Unpaid balances.
-- Amounts tied to unresolved claims.
-- Amounts tied to major unresolved customer issues.
+- Amounts tied to unresolved claims, unless Bryan approves treatment.
+- Amounts tied to major unresolved customer issues, unless Bryan approves treatment.
 - Amounts outside approved Dos Manos billing and collection channels.
 
 Deposits do not trigger the 10% revenue share by themselves.
@@ -158,7 +158,7 @@ Default dispute priority:
 2. Dedicated territory phone, form, page, ad, or social source.
 3. Written referral record.
 4. Customer statement.
-5. Management decision.
+5. Bryan decision.
 
 ## Dispute Resolution Process
 
@@ -180,11 +180,11 @@ A job is not eligible for the 10% revenue share if:
 - It did not follow Dos Manos service standards.
 - It was not completed under the Dos Manos brand.
 - It was not collected from the customer.
-- It resulted in a refund.
-- It resulted in a chargeback.
-- It has an unpaid balance.
-- It resulted in a claim.
-- It has a major unresolved customer issue.
+- It resulted in a refund, unless Bryan approves treatment.
+- It resulted in a chargeback, unless Bryan approves treatment.
+- It has an unpaid balance, unless Bryan approves partial-payment treatment.
+- It resulted in a claim, unless Bryan approves treatment.
+- It has a major unresolved customer issue, unless Bryan approves treatment.
 - The participant made an unapproved arrangement outside the approved Dos Manos process.
 - The participant misrepresented pricing, availability, service terms, or company approval.
 - The job violates company policy or legal/regulatory requirements.
@@ -226,9 +226,9 @@ If a participant recruits a referral partner, management must decide whether tha
 
 Referral partners may need W-9 collection and 1099-NEC review if payments meet reporting thresholds. Participants should not give tax advice to referral partners.
 
-If a job could trigger both a participant revenue share and a referral partner payout, management must approve the combined treatment before payment. Do not assume the 10% participant revenue share and 5% referral fee automatically stack on the same job.
+If a job could trigger both a participant revenue share and a referral partner payout, management must approve the combined treatment before payment. Do not assume the 10% participant revenue share and 5% referral fee automatically stack on the same job. Bryan controls stacking decisions.
 
-Working stacking rule: at Territory Operator stage, the 5% referral partner fee and 10% Territory Operator revenue share may stack if both are approved, tracked, and the referral source is an approved territory channel. During the Operator Track, stacking requires management approval before payment.
+Stacking rule: at Territory Operator stage, the 5% referral partner fee and 10% Territory Operator revenue share may stack if Bryan approves, both are tracked, and the referral source is an approved territory channel. During the Operator Track, stacking requires Bryan approval before payment.
 
 ## Payment Review Process
 
@@ -241,12 +241,12 @@ Use this process before approving revenue share:
 5. Confirm the job was priced and performed under Dos Manos standards.
 6. Confirm the lead was tracked in Supermove or an approved tracking record.
 7. Confirm the participant or territory attribution.
-8. Alex/Bryan approve the 10% revenue share for payroll or accounting processing.
+8. Bryan approves the 10% revenue share for payroll or accounting processing, unless the payment is routine and he has delegated approval.
 9. Update the Operator Performance Tracker or payment log.
 
-Working payment timing: pay on the next regular payroll after the job is completed, collected revenue is confirmed, attribution is approved, and no known claim or major customer issue exists. Do not promise off-cycle payment unless management and payroll/accounting approve it.
+Approved payment timing options may include next regular payroll, month-end, scheduled accounting/payment run, or another Bryan-approved payout cycle after the job is completed, collected revenue is confirmed, attribution is approved, and claims/customer issues are reviewed. Do not promise off-cycle payment unless Bryan and payroll/accounting approve it.
 
-Referral partner payments follow the separate affiliate/referral process. A prior target was 7-10 business days after Dos Manos is paid by the customer, but management should confirm the current payout timing before promising it.
+Referral partner payments follow the separate affiliate/referral process. Current referral payout timing is month end, through a W-9-backed process with proper tracking, after Dos Manos is paid and the referral is approved.
 
 ## Revenue Share Hold Reasons
 
@@ -264,7 +264,7 @@ Revenue share may be held pending review if:
 
 If payment is held, management should record the reason, owner, and next review date.
 
-For partially paid jobs, the safer rollout rule is to hold revenue share until the job is fully collected unless management approves partial payout. If a claim opens after payout, flag the job and get legal/payroll review before any future offset or wage deduction. Do not create an automatic clawback without review.
+Partially paid jobs are handled by Bryan's decision. Do not create an automatic partial-payment payout rule. If a claim opens after payout, flag the job and get legal/payroll review before any future offset or wage deduction. Do not create an automatic clawback without review.
 
 ## Revenue Share Hold Log
 
@@ -277,10 +277,10 @@ For partially paid jobs, the safer rollout rule is to hold revenue share until t
 | Role | Responsibility |
 | --- | --- |
 | Participant | Enters or reports the lead, source, job facts, and follow-up activity. |
-| Manager | Confirms attribution, pricing discipline, and eligibility. Default first manager: Bryan Abrego. |
+| Manager | Confirms attribution, pricing discipline, and eligibility. Default first manager and final authority: Bryan Abrego. |
 | Operations | Confirms completion, claims/customer issue status, and service-standard concerns. Default owner: Bryan Abrego. |
-| Accounting/payroll | Confirms collected revenue, payment status, payroll/accounting treatment, and payout timing. Default verifier: Alex/bookkeeper until delegated. |
-| Owner/leadership, if needed | Alex and Bryan resolve disputes, exceptions, or unusual payment questions. |
+| Accounting/payroll | Confirms collected revenue, payment status, payroll/accounting treatment, and payout timing. Default verifier: bookkeeper/accounting support as assigned. |
+| Owner/leadership, if needed | Bryan resolves disputes, exceptions, partial-payment treatment, claim/refund impact, or unusual payment questions unless delegated in writing. |
 
 ## Exceptions
 
@@ -316,7 +316,7 @@ Do not use exceptions to fix poor lead tracking, side arrangements, or repeated 
 | Claims or unresolved issues |  |
 | Approved revenue share amount |  |
 | Bryan operational approval |  |
-| Alex/payment approval |  |
+| Bryan/payment approval |  |
 | Payroll period |  |
 | Payroll/accounting processing date |  |
 | Payment date |  |

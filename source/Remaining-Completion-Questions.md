@@ -1,90 +1,109 @@
 # Remaining Completion Questions
 
-These are the remaining questions needed to move the execution package from working rollout draft to live-use version.
+These are the remaining inputs after Alex's May 21, 2026 answers resolved the major business-policy ambiguities.
 
-Most earlier rollout questions have working answers in `Rollout-Answers.md`. The questions below are the true remaining inputs, confirmations, or professional-review items.
+Do not use this file to reopen decisions that are already settled in `Finalized-Policy-Decisions.md` and `Rollout-Answers.md`.
 
-## Pricing And Estimates
+## Pending Bryan Pricing Policy Inputs
 
-1. What are the current Dos Manos hourly rates by crew size, truck type, and move type?
-2. What travel time, fuel, material, stair, elevator, long-carry, heavy-item, specialty-item, packing, and added-stop rules should operators use?
-3. How does the $450 minimum job revenue / minimum job cost apply when a job has discounts, deposits, partial payments, or referral fees?
-4. Which moves are tariff-governed, rate-exempt, or otherwise subject to specific Illinois intrastate pricing rules?
-5. What exact written estimate form and estimate workflow should operators follow before booking?
+The complete Dos Manos pricing policy is still pending Bryan Abrego's answers. The current price sheet is a baseline only.
 
-## Supermove And QuickBooks
+### Rate Structure
 
-6. Which required fields already exist in Supermove, and which need to be created or renamed?
-7. Which approved Operator Track, referral, and territory source tags have actually been created in Supermove, and who tested them?
-8. What does Supermove currently sync to QuickBooks Online: customers, invoices, payments, job numbers, deposits, refunds, or only summary data?
-9. What record is the final authority when Supermove and QuickBooks disagree?
-10. Who performs the weekly or payroll-period reconciliation between Supermove jobs and QuickBooks collected revenue?
-11. How are deposits, partial payments, refunds, chargebacks, unpaid balances, and write-offs coded in QuickBooks?
-12. What report should be used for revenue-share approval each payroll cycle?
+1. Are the current hourly ranges customer-facing ranges, internal ranges, or both?
+2. Who chooses the final rate inside each range?
+3. Should the low end require Bryan approval?
+4. Are rates different for weekdays, weekends, month-end, holidays, same-day jobs, urgent jobs, or high-demand days?
+5. Are there minimum hours by move type?
+6. Does the $450 minimum apply to all move types?
+7. Does the $450 minimum include truck/transportation fees or apply before those fees?
 
-## Payroll, Tax, And Worker Classification
+### Local Move Pricing
 
-13. Should the 10% collected revenue share be classified as commission, bonus, supplemental wages, or another payroll category?
-14. How should the 10% revenue share affect regular-rate and overtime calculations for non-exempt employees?
-15. What is the final payroll schedule for revenue-share payments?
-16. Are any current participants paid as 1099 contractors, W-2 employees, or both, and what cleanup is required before rollout?
-17. What wage-and-hour, workers' compensation, unemployment insurance, and employment-record requirements apply to participants?
-18. What exact 1099-NEC process applies to referral partners who cross reporting thresholds?
+1. What counts as a local move?
+2. When does the billing clock start and stop?
+3. Are drive time, travel time, loading, unloading, and paperwork time billed the same way?
+4. What job facts require 3, 4, or 5 movers instead of 2?
+5. Are there jobs that should never be quoted with only 2 movers?
 
-## Candidate And Employment Controls
+### Labor-Only Pricing
 
-19. What background check vendor, standard, and approval process does Dos Manos use?
-20. What driver qualification process applies before a participant can drive?
-21. What safety, household-goods handling, customer-property protection, and ICC paperwork training must be completed before active participation?
-22. Who keeps training records, candidate acknowledgments, and performance records?
-23. Should outside hires complete a probationary field period before Operator Track acceptance?
+1. What exactly counts as labor-only?
+2. Does labor-only include loading/unloading customer trucks, pods, storage units, in-home moves, staging, or rearranging?
+3. Are equipment, pads, dollies, straps, tools, and protection included?
+4. Who is responsible for truck packing quality when the customer provides the truck?
+5. Are labor-only jobs eligible for the $450 minimum and the 10% revenue share?
+6. Which labor-only jobs should be declined because risk is too high?
 
-## Claims, Contracts, And Customer Terms
+### Truck, Transportation, And U-Haul
 
-24. What exact customer contract is currently delivered through Supermove?
-25. What hold-harmless, limitation-of-liability, valuation, claims, payment, cancellation, and refund language does the current customer contract contain?
-26. Has counsel reviewed the customer contract for Illinois intrastate household goods moves?
-27. What claim intake form should be used?
-28. Who has authority to approve repairs, refunds, settlement offers, denials, or insurance submissions?
-29. How should claims opened after revenue-share payment be handled without unlawful wage deductions or automatic clawbacks?
-30. What confidentiality, customer ownership, referral partner ownership, non-solicitation, and territory reassignment language should be added to program acknowledgments or separate agreements?
+1. What happens between 30 and 35 miles?
+2. Is mileage calculated from Naperville, River Grove, pickup to delivery, total trip, or another method?
+3. Does mileage include return to base?
+4. Are tolls, parking, fuel, permits, and access charges included or separate?
+5. Are Chicago jobs automatically high-end pricing, added transportation fee, or both?
+6. Are River Grove-origin jobs priced differently from Naperville-origin jobs?
+7. When does a job become special pricing?
+8. When is U-Haul used instead of a Dos Manos truck?
+9. Does U-Haul pricing include fuel, rental fees, insurance, equipment, and environmental fees?
+10. Are U-Haul charges included in the revenue-share base?
 
-## Illinois ICC, Insurance, And Interstate Authority
+### Range Rules And Specialty Charges
 
-31. What is Dos Manos' current ICC authority status, ILCC number, authorized territory, and tariff status?
-32. Which estimate, Consumer Guide, bill of lading, freight bill, valuation, inventory, vehicle identification, and cab-card documents are in current use?
-33. Who audits Illinois intrastate job paperwork for completeness?
-34. What insurance limits, cargo coverage, workers' compensation status, and COI process are current?
-35. Who can request COIs or additional insured certificates from the insurance agent?
-36. Does Dos Manos currently have FMCSA / U.S. DOT authority for interstate household goods moves?
-37. If interstate authority exists, what interstate documents, customer booklets, valuation rules, and operational controls must operators use?
-38. If interstate authority does not exist, what referral or decline script should be used for interstate move requests?
+1. Define easy job, standard job, and high-demand job.
+2. What exactly does two bookings / capacity pressure mean?
+3. Does Chicago mean City of Chicago only or Chicago plus dense inner suburbs?
+4. Does more than 25 miles trigger high hourly pricing, special transportation, or both?
+5. Are month-end, weekend, same-day, and next-day jobs automatically high-end?
+6. Which items require special pricing: pianos, safes, pool tables, treadmills, large appliances, oversized furniture, glass, marble, artwork, antiques, hoisting, tight stairwells, long carries, elevators, COIs, multiple stops, packing, disassembly, or reassembly?
 
-## Referral Partner Program
+### Materials, Deposits, Discounts, And Revenue Share Base
 
-39. What referral partner agreement or acknowledgment should partners sign, if any?
-40. What W-9 collection process should be used before the first payout?
-41. Who approves each partner and each payout?
-42. What payment method and payout cycle applies to the 5% referral fee?
-43. How are referral partners prevented from receiving unapproved promises, exclusivity, special pricing, or customer ownership claims?
+1. Are pads, blankets, shrink wrap, tape, mattress bags, wardrobe boxes, TV boxes, boxes, and packing paper included or charged separately?
+2. Are packing jobs hourly only, material-plus-hourly, or flat quoted?
+3. Are materials included in the 10% revenue-share base?
+4. Is a deposit required to book, and is it refundable?
+5. What is the cancellation and reschedule policy?
+6. What payment methods are accepted?
+7. Are card processing fees passed through?
+8. Is payment due before unloading, at completion, or after invoice?
+9. Which discounts are allowed, which are prohibited, and who approves them?
+10. Does a discount reduce the revenue-share base?
+11. Does the 10% base include truck/transportation fees, U-Haul charges, materials, packing supplies, cancellation fees, tips, pass-through fees, taxes, or processing fees?
 
-## Territory Launch
+### Estimate Workflow
 
-44. Is the first territory North Side / North Shore Chicago or a safer DuPage / West Suburbs pilot?
-45. What exact cities, neighborhoods, ZIP codes, radius, and excluded areas define the first territory?
-46. What dedicated phone number, website page, quote form, social account, ad campaign, and referral tags will be used?
-47. Will any Google Business Profile, local listing, address, or public office language be used, and is it compliant?
-48. What name, trade name, ILCC/license-number language, and required advertising details must appear on territory ads, pages, and listings?
-49. Who will test each inbound channel before public launch?
-50. What dispatch, truck, crew, COI, and claims capacity must be in place before launch?
-51. What local ad budget, referral target list, and first 30-day activity goal should be set?
+1. Who can send written estimates?
+2. Can operators give verbal estimates?
+3. When is Bryan review required before quoting?
+4. Which jobs require photos, video, written inventory, or an in-person estimate?
+5. What must be documented before a job is booked?
+6. How should scope changes be handled on move day?
+7. Can crew leads adjust price on site?
+8. What exact language should be used when final price may change?
 
-## Formal Location And Long-Term Economics
+## Operational Setup Still Needed
 
-52. What minimum actual territory history is required before Formal Location review: months active, jobs completed, collected revenue, reviews, claims, and lead-source diversity?
-53. What contribution-margin target should be required after labor, truck/rental, materials, fuel, direct marketing, claims, referral fees, and participant revenue share?
-54. How should central operations burden be allocated to a territory?
-55. What is the asset trigger for dedicated truck access or purchased trucks?
-56. What startup capital assumptions apply to the first formalized location?
-57. What legal/tax structures are acceptable for future cash-flow participation, profit participation, phantom equity, buy-in, ownership, or another location-level opportunity?
-58. Which ownership-group members, attorney, and CPA must be named in the approval workflow before any location-level economic opportunity is discussed with a participant?
+1. Confirm which Supermove fields and source tags already exist.
+2. Test territory source tags for Naperville, River Grove, and any future territory before public launch.
+3. Confirm Supermove-to-QuickBooks sync behavior.
+4. Confirm the exact accounting report used to verify collected revenue.
+5. Confirm who performs each month-end referral payout review.
+6. Confirm the W-9 collection and storage process for referral partners.
+7. Confirm the payroll or accounting workflow used for participant revenue-share payments.
+8. Confirm the training-record storage process for candidate acknowledgments, probationary field period evidence, and performance trackers.
+
+## Professional Review Queue
+
+These items remain professional-review items, not agent-invented policy:
+
+- Payroll classification of the 10% collected revenue share.
+- Regular-rate and overtime treatment for revenue-share payments.
+- Employee versus contractor cleanup.
+- W-9 and 1099-NEC handling for referral partners.
+- Illinois intrastate household goods moving paperwork and tariff compliance.
+- Interstate move authority / FMCSA / U.S. DOT requirements.
+- Supermove customer contract terms, including hold-harmless, limitation-of-liability, valuation, claim, payment, cancellation, and refund language.
+- Insurance, COI, additional insured, and advertised-location implications.
+- Territory reassignment, confidentiality, customer ownership, referral partner ownership, non-solicitation, and customer-information handling language.
+- Cash-flow participation, profit participation, phantom equity, buy-in, ownership, or any other location-level economic structure.

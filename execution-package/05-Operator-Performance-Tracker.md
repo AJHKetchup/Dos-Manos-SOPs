@@ -232,7 +232,7 @@ Use this snapshot at the start of each monthly review.
 | Readiness question | Yes/No | Evidence |
 | --- | --- | --- |
 | Participant consistently tracks leads in Supermove or the approved process. |  |  |
-| Participant has personally brought in or booked at least 3-5 approved jobs, if territory assignment is being considered. |  |  |
+| Participant has enough documented booking, customer, field, and reporting evidence for Bryan to judge territory readiness. |  |  |
 | Participant books jobs that fit Dos Manos standards. |  |  |
 | Participant follows pricing guidelines. |  |  |
 | Participant communicates professionally with customers. |  |  |
@@ -247,6 +247,8 @@ Use this snapshot at the start of each monthly review.
 | Participant avoids unapproved promises or arrangements. |  |  |
 | Participant can be trusted with a territory. |  |  |
 | Centralized operations can support the next stage. |  |  |
+| Dos Manos is prepared to expand or advertise the territory. |  |  |
+| Market fit, crew/truck access, dispatch capacity, tracking, and claims risk support territory assignment. |  |  |
 
 ## Stage Decision
 
@@ -267,8 +269,8 @@ Select one:
 | Required improvements |  |
 | Territory considered, if any |  |
 | Manager responsible |  |
-| Alex approval, if territory assignment, removal, or revenue-share exception is involved | Yes / No |
-| Bryan approval, if territory assignment, removal, or revenue-share exception is involved | Yes / No |
+| Alex review, if assigned | Yes / No / N/A |
+| Bryan final approval, if territory assignment, removal, or revenue-share exception is involved | Yes / No |
 | Next review date |  |
 
 Stage decisions should be made by management, not by the participant. The participant may provide comments, but territory assignment, pause, removal, and promotion decisions remain Dos Manos decisions.
@@ -317,7 +319,7 @@ Before using it, management should confirm:
 - Claims and customer issues are reviewed before promotion.
 - Stage decisions are documented.
 - Territory assignment decisions are not made without reviewing this tracker.
-- At least 3-5 approved jobs are documented before territory assignment is considered, unless Alex and Bryan document an exception.
+- Territory assignment is not contingent on a fixed number of completed jobs. The tracker should show enough evidence for Bryan to judge operator readiness, company expansion readiness, market fit, and operating capacity.
 
 ## Final Review Items
 

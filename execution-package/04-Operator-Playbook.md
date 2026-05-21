@@ -107,11 +107,43 @@ Before the crew arrives, the job record should make the job understandable.
 
 ## Pricing Guideline Basics
 
-Use the current Dos Manos pricing guidelines. If unsure, ask management before quoting.
+Use the current Bryan-approved Dos Manos pricing guidelines. If unsure, ask Bryan before quoting.
 
-Working minimum: $450 minimum job revenue / minimum job cost unless management updates the pricing guide.
+Current minimum: $450 minimum job revenue / minimum job cost unless Bryan updates the pricing guide.
 
-Exact hourly rates, crew/truck rates, travel time, materials, stair charges, heavy-item charges, tariff-specific pricing, and recurring exception rules still need to be inserted from the current Dos Manos pricing guide.
+Current baseline pricing snapshot:
+
+Local moves, hourly ranges:
+
+| Crew size | Hourly range |
+| ---: | ---: |
+| 2 movers | $140-$155 |
+| 3 movers | $175-$190 |
+| 4 movers | $210-$225 |
+| 5 movers | $245-$260 |
+
+Labor-only, hourly ranges:
+
+| Crew size | Hourly range |
+| ---: | ---: |
+| 2 movers | $130-$145 |
+| 3 movers | $165-$180 |
+| 4 movers | $200-$215 |
+| 5 movers | $230-$245 |
+
+Truck and transportation fees:
+
+| Distance | Fee |
+| ---: | ---: |
+| 0-20 miles | $175 |
+| 20-30 miles | $225 |
+| 35+ miles | Special Pricing |
+
+U-Haul rental: $150 flat + $2.25 per mile.
+
+Current range rules: peak pricing if two bookings / capacity pressure, Chicago jobs, or more than 25 miles; low end = easy jobs; mid range = standard jobs; high end = tight schedule / high demand.
+
+The full pricing policy is still pending Bryan's answers. Do not invent rules for minimum hours, mileage calculation, materials, specialty items, deposits, discounts, or revenue-share base.
 
 Pricing discipline means:
 
@@ -143,7 +175,7 @@ Use this if management approves a discount, special pricing, or unusual quote st
 
 Operators should not create pricing exceptions on their own.
 
-Working approval rule: Bryan approves operational/pricing exceptions; Alex approves policy exceptions. Recurring exceptions should be added to the pricing guide.
+Approval rule: Bryan approves pricing, operational, discount, special-pricing, and policy exceptions unless he delegates authority in writing. Recurring exceptions should be added to the pricing guide.
 
 ## Customer Call Process
 
@@ -535,7 +567,7 @@ Escalate immediately if:
 - The customer requests a certificate of insurance or additional insured document.
 - The job may cross state lines or require federal authority / FMCSA / U.S. DOT compliance review.
 
-Do not make private deals, admit fault, promise payment, interpret insurance, waive charges, or promise claim outcomes. Say: "We'll document it and get it to management so it can be handled through the company's claims process."
+Do not make private deals, admit fault, promise payment, interpret insurance, waive charges, or promise claim outcomes. Bryan has final authority over claims, refunds, repairs, settlements, denials, insurance submissions, and claim impact on revenue share. Say: "We'll document it and get it to management so it can be handled through the company's claims process."
 
 ## COI And Additional Insured Requests
 
@@ -618,7 +650,7 @@ When a customer issue, damage concern, claim, payment dispute, or major complain
 
 Do not edit facts to protect yourself or the crew. Clean facts protect the customer, Dos Manos, and the operator.
 
-Formal claims should be routed to Bryan/Operations first, with Alex copied for material claims, payment issues, legal threats, ICC exposure, or insurance exposure. Illinois household goods claim timelines require professional compliance handling; the working reference is at least 90 days for a customer to submit loss/damage claims, written acknowledgment within 30 days, and payment, denial, or written settlement offer within 120 days.
+Formal claims should be routed to Bryan first unless he delegates claim intake. Illinois household goods claim timelines require professional compliance handling; the working reference is at least 90 days for a customer to submit loss/damage claims, written acknowledgment within 30 days, and payment, denial, or written settlement offer within 120 days.
 
 ## Weekly Reporting Instructions
 
@@ -792,12 +824,12 @@ Before use, management should insert or confirm:
 | --- | --- | --- | --- |
 | Manager responsible |  |  |  |
 | Supermove access or record issue |  |  |  |
-| Pricing question | Bryan Abrego | Alex Heinz | Bryan handles operational/pricing reality; Alex handles policy exceptions. |
+| Pricing question | Bryan Abrego | Delegated manager, if any | Bryan is CEO and final authority for pricing, discounts, special pricing, and policy exceptions unless delegated in writing. |
 | Dispatch or crew issue |  |  |  |
-| Customer complaint or claim | Bryan Abrego | Alex Heinz | Copy Alex for material claims, payment issues, legal threats, ICC exposure, or insurance exposure. |
+| Customer complaint or claim | Bryan Abrego | Delegated manager, if any | Bryan has final authority over repairs, refunds, settlements, denials, insurance submissions, and claim impact on revenue share. |
 | COI / additional insured request | Central admin / ownership | Insurance agent | Operators do not issue or modify COIs. |
-| Payroll or revenue share question | Alex / bookkeeper | Bryan Abrego | QuickBooks/payment confirmation controls collected revenue. |
-| Referral partner setup | Alex / admin / bookkeeper | Bryan Abrego | W-9, tracking, approval, and payout terms required before promise. |
+| Payroll or revenue share question | Bryan Abrego / bookkeeper | Delegated accounting contact, if any | QuickBooks/payment confirmation controls collected revenue; Bryan controls exceptions and payout treatment. |
+| Referral partner setup | Bryan Abrego / admin / bookkeeper | Delegated accounting contact, if any | W-9, tracking, month-end payout process, and approval required before promise. |
 
 ## Final Review Items
 

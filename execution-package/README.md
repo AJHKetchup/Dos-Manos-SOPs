@@ -2,7 +2,7 @@
 
 Working Markdown execution package for the Dos Manos Moving Accelerated Management Program.
 
-Last refined: May 20, 2026.
+Last refined: May 21, 2026.
 
 Source files:
 
@@ -10,6 +10,7 @@ Source files:
 - `../source/Execution-Package-Plan.md`
 - `../source/Company-Facts.md`
 - `../source/Rollout-Answers.md`
+- `../source/Finalized-Policy-Decisions.md`
 - `../source/Remaining-Completion-Questions.md`
 - `../source/Research-Notes.md`
 
@@ -27,29 +28,29 @@ The first five documents are needed before the first participant starts. The ter
 
 ## Rollout Sequence
 
-1. Alex Heinz and Bryan Abrego jointly approve the Program Brief, Revenue Share Policy, and Candidate Selection Form for first use.
+1. Bryan Abrego gives final approval for the Program Brief, Revenue Share Policy, and Candidate Selection Form before first use. Alex Heinz may support program documentation, copy, tracking, and administrative setup where assigned.
 2. Payroll/accounting reviews the 10% collected revenue process before broad rollout. Until professional review is complete, treat employee payments as payroll compensation, likely commission/bonus/supplemental wages.
 3. Operations confirms Supermove fields, job documentation requirements, escalation contacts, ICC paperwork process, interstate escalation, and COI handling.
-4. Management selects one candidate using the Candidate Selection Form. Bryan Abrego is the default first manager responsible, with Alex reviewing program-stage and revenue-share decisions.
+4. Management selects one candidate using the Candidate Selection Form. Bryan Abrego is the default first manager responsible and final authority unless he delegates responsibility in writing.
 5. The candidate signs the acknowledgment before entering the Operator Track.
 6. The participant starts the Operator Track with the Operator Playbook and Operator Performance Tracker.
 7. Management reviews weekly activity and completes monthly reviews.
-8. Territory assignment is considered only after documented performance, judgment, trust, and at least 3-5 approved jobs personally brought in or booked.
-9. Formal Location review occurs only after meaningful territory activity and clean evidence.
+8. Territory assignment is considered only after documented performance, judgment, trust, company readiness to expand, market fit, operating capacity, and Bryan approval. It is not contingent on a fixed number of completed jobs.
+9. Formal Location review occurs only after at least six months of territory activity and clean evidence.
 
 ## Decision Rights
 
 | Decision | Primary owner | Supporting records |
 | --- | --- | --- |
-| Candidate accepted, held, or rejected | Alex Heinz and Bryan Abrego | Candidate Selection Form |
+| Candidate accepted, held, or rejected | Bryan Abrego | Candidate Selection Form |
 | Operator Track start date and manager responsible | Bryan Abrego with Alex review | Candidate Selection Form, Program Brief |
-| Revenue share eligibility | Bryan confirms job quality; Alex/bookkeeper confirms payment; Alex/Bryan approve exceptions | Revenue Share Policy, Supermove, QuickBooks/accounting records |
-| Referral partner payout eligibility | Alex and Bryan with accounting confirmation | Referral tracker, Supermove, W-9/accounting records |
+| Revenue share eligibility | Bryan confirms job quality; Alex/bookkeeper confirms payment; Bryan approves exceptions | Revenue Share Policy, Supermove, QuickBooks/accounting records |
+| Referral partner payout eligibility | Bryan with accounting confirmation | Referral tracker, Supermove, W-9/accounting records |
 | Weekly coaching priorities | Manager responsible, default Bryan | Operator Performance Tracker |
-| Territory assignment | Alex and Bryan | Operator Performance Tracker, Territory Assignment Packet |
-| Public territory launch | Alex approves copy/brand/legal risk; Bryan approves service area/operations accuracy | Territory Assignment Packet, tracking setup, compliance review |
-| Formal Location readiness | Alex, Bryan, bookkeeper/CPA | Formal Location Readiness Packet, Supermove, QuickBooks/accounting records |
-| Location-level economic opportunity | Ownership group with legal/tax/accounting review | Formal Location Readiness Packet, approved legal/tax documents |
+| Territory assignment | Bryan | Operator Performance Tracker, Territory Assignment Packet |
+| Public territory launch | Bryan approves final public launch; Alex may support copy/brand review where assigned | Territory Assignment Packet, tracking setup, compliance review |
+| Formal Location readiness | Bryan with bookkeeper/CPA support | Formal Location Readiness Packet, Supermove, QuickBooks/accounting records |
+| Location-level economic opportunity | Bryan / ownership group with legal/tax/accounting review | Formal Location Readiness Packet, approved legal/tax documents |
 
 ## Core Definitions
 
@@ -111,30 +112,30 @@ Before rollout, confirm:
 
 ## Working Rollout Defaults
 
-Use these as the current operating defaults unless Alex and Bryan update them:
+Use these as the current operating defaults unless Bryan update them:
 
-- Final first-rollout sign-off: Alex Heinz and Bryan Abrego.
-- Current minimum job revenue / minimum job cost: $450.
+- Final first-rollout sign-off: Bryan Abrego.
+- Current minimum job revenue / minimum job cost: $450, subject to Bryan's final pricing policy.
 - Supermove is the central job record; QuickBooks or approved accounting records confirm collected revenue.
 - Employee revenue-share payments should run through payroll until CPA/payroll counsel approves a different treatment.
-- Revenue share should be paid on the next regular payroll after job completion, collected revenue confirmation, attribution approval, and no known claim or major unresolved customer issue.
+- Revenue-share timing may be next regular payroll, month-end, scheduled accounting run, or another Bryan-approved payout cycle after job completion, collected revenue confirmation, attribution approval, and review of claims/customer issues.
 - Deposits do not trigger the 10% revenue share.
-- Approved referral partner fee: 5% of collected revenue on approved referred jobs, paid after Dos Manos is paid and W-9/payment information is on file.
+- Approved referral partner fee: 5% of collected revenue on approved referred jobs, paid at month end for now through a W-9-backed process with proper tracking after Dos Manos is paid.
 - Operators do not issue or modify COIs and do not quote insurance limits unless using approved office language.
 - Interstate household goods moves should not be booked unless FMCSA/U.S. DOT authority and required documents are confirmed.
-- First territory to consider: North Side / North Shore Chicago; safer pilot alternative: a defined DuPage / West Suburbs territory.
+- Territory documents are evergreen. Current location context: Naperville is the primary location and River Grove is the secondary advertised location. Future territories are created based on market fit, operator readiness, tracking, and operating capacity.
 
 ## Completion Status
 
 | Document | Draft status | Main dependency before live use |
 | --- | --- | --- |
 | Program Brief and Invitation | Complete working draft | Counsel/management approval of candidate-facing language. |
-| Candidate Selection Form | Complete working draft | Management confirms pilot scoring and outside-hire prerequisites before each use. |
+| Candidate Selection Form | Complete working draft | Management confirms pilot scoring and outside-hire probationary field period before each use. |
 | Revenue Share and Lead Attribution Policy | Complete working draft | Payroll/accounting/legal approval of payment classification and overtime treatment. |
 | Operator Playbook | Complete working draft | Exact hourly/crew/truck/materials/access pricing and final ICC paperwork process. |
 | Operator Performance Tracker | Complete working draft | Manager adoption and conversion to spreadsheet if desired. |
-| Territory Assignment and Launch Packet | Complete working draft | Exact first-territory boundaries, channel setup, listing review, and compliance review. |
-| Formal Location Readiness Packet | Complete working draft | Actual territory history, margin data, asset plan, legal/tax/insurance review. |
+| Territory Assignment and Launch Packet | Complete working draft | Territory creation/placement decision, channel setup, listing review, and compliance review. |
+| Formal Location Readiness Packet | Complete working draft | At least six months of actual territory history, margin data, asset plan, legal/tax/insurance review. |
 
 Bracketed placeholders such as `[Name]`, `[Date]`, `[Territory]`, and `[specific reason]` are intentional template fields.
 
@@ -170,7 +171,7 @@ The package is usable as a working draft, but these items need company-specific 
 | Supermove contract / hold-harmless language | Operators should not rely on contract language that has not been reviewed. | Operator Playbook, Professional Review Queue |
 | Final ICC paperwork process and forms in actual use | Illinois intrastate household goods moves require compliant paperwork, tariff practices, and vehicle documents. | Operator Playbook, Territory Packet |
 | FMCSA/U.S. DOT authority status | Interstate work should not be booked until separate authority/compliance is confirmed. | Operator Playbook, Territory Packet |
-| Exact first territory map and public listing plan | North Side / North Shore is the working candidate, but actual boundaries, channels, and any address/listing plan need approval. | Territory Assignment Packet |
+| Territory creation/placement decision and public listing plan | Current examples are Naperville and River Grove, but each future territory needs approved boundaries, channels, and address/listing review. | Territory Assignment Packet |
 
 ## Rollout Risk Register
 
