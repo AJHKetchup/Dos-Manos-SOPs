@@ -1,24 +1,20 @@
-# Remaining Completion Questions
+# Pricing Policy Build Questions For Bryan Abrego
 
-These are the remaining inputs after Alex's May 21, 2026 answers resolved the major business-policy ambiguities.
+These questions support the separate Dos Manos Pricing Policy. The Accelerated Management Program execution package references the Pricing Policy as a standalone company operating document.
 
-Do not use this file to reopen decisions that are already settled in `Finalized-Policy-Decisions.md` and `Rollout-Answers.md`.
+Operators must use the current CEO-approved price sheet, the $450 minimum job revenue / minimum job cost, and management approval for discounts, special pricing, unusual scope, or pricing exceptions unless the Dos Manos Pricing Policy states otherwise.
 
-## Pending Bryan Pricing Policy Inputs
-
-The complete Dos Manos pricing policy is still pending Bryan Abrego's answers. The current price sheet is a baseline only.
-
-### Rate Structure
+## Rate Structure
 
 1. Are the current hourly ranges customer-facing ranges, internal ranges, or both?
 2. Who chooses the final rate inside each range?
-3. Should the low end require Bryan approval?
+3. Should the low end require Bryan Abrego approval?
 4. Are rates different for weekdays, weekends, month-end, holidays, same-day jobs, urgent jobs, or high-demand days?
 5. Are there minimum hours by move type?
 6. Does the $450 minimum apply to all move types?
 7. Does the $450 minimum include truck/transportation fees or apply before those fees?
 
-### Local Move Pricing
+## Local Move Pricing
 
 1. What counts as a local move?
 2. When does the billing clock start and stop?
@@ -26,7 +22,7 @@ The complete Dos Manos pricing policy is still pending Bryan Abrego's answers. T
 4. What job facts require 3, 4, or 5 movers instead of 2?
 5. Are there jobs that should never be quoted with only 2 movers?
 
-### Labor-Only Pricing
+## Labor-Only Pricing
 
 1. What exactly counts as labor-only?
 2. Does labor-only include loading/unloading customer trucks, pods, storage units, in-home moves, staging, or rearranging?
@@ -35,7 +31,7 @@ The complete Dos Manos pricing policy is still pending Bryan Abrego's answers. T
 5. Are labor-only jobs eligible for the $450 minimum and the 10% revenue share?
 6. Which labor-only jobs should be declined because risk is too high?
 
-### Truck, Transportation, And U-Haul
+## Truck, Transportation, And U-Haul
 
 1. What happens between 30 and 35 miles?
 2. Is mileage calculated from Naperville, River Grove, pickup to delivery, total trip, or another method?
@@ -48,7 +44,7 @@ The complete Dos Manos pricing policy is still pending Bryan Abrego's answers. T
 9. Does U-Haul pricing include fuel, rental fees, insurance, equipment, and environmental fees?
 10. Are U-Haul charges included in the revenue-share base?
 
-### Range Rules And Specialty Charges
+## Range Rules And Specialty Charges
 
 1. Define easy job, standard job, and high-demand job.
 2. What exactly does two bookings / capacity pressure mean?
@@ -57,7 +53,7 @@ The complete Dos Manos pricing policy is still pending Bryan Abrego's answers. T
 5. Are month-end, weekend, same-day, and next-day jobs automatically high-end?
 6. Which items require special pricing: pianos, safes, pool tables, treadmills, large appliances, oversized furniture, glass, marble, artwork, antiques, hoisting, tight stairwells, long carries, elevators, COIs, multiple stops, packing, disassembly, or reassembly?
 
-### Materials, Deposits, Discounts, And Revenue Share Base
+## Materials, Deposits, Discounts, And Revenue Share Base
 
 1. Are pads, blankets, shrink wrap, tape, mattress bags, wardrobe boxes, TV boxes, boxes, and packing paper included or charged separately?
 2. Are packing jobs hourly only, material-plus-hourly, or flat quoted?
@@ -71,39 +67,17 @@ The complete Dos Manos pricing policy is still pending Bryan Abrego's answers. T
 10. Does a discount reduce the revenue-share base?
 11. Does the 10% base include truck/transportation fees, U-Haul charges, materials, packing supplies, cancellation fees, tips, pass-through fees, taxes, or processing fees?
 
-### Estimate Workflow
+## Estimate Workflow
 
 1. Who can send written estimates?
-2. Can operators give verbal estimates?
-3. When is Bryan review required before quoting?
+2. Can Operators give verbal estimates?
+3. When is Bryan Abrego review required before quoting?
 4. Which jobs require photos, video, written inventory, or an in-person estimate?
 5. What must be documented before a job is booked?
 6. How should scope changes be handled on move day?
-7. Can crew leads adjust price on site?
+7. Can Crew Leads adjust price on site?
 8. What exact language should be used when final price may change?
 
-## Operational Setup Still Needed
+## Implementation Owner
 
-1. Confirm which Supermove fields and source tags already exist.
-2. Test territory source tags for Naperville, River Grove, and any future territory before public launch.
-3. Confirm Supermove-to-QuickBooks sync behavior.
-4. Confirm the exact accounting report used to verify collected revenue.
-5. Confirm who performs each month-end referral payout review.
-6. Confirm the W-9 collection and storage process for referral partners.
-7. Confirm the payroll or accounting workflow used for participant revenue-share payments.
-8. Confirm the training-record storage process for candidate acknowledgments, probationary field period evidence, and performance trackers.
-
-## Professional Review Queue
-
-These items remain professional-review items, not agent-invented policy:
-
-- Payroll classification of the 10% collected revenue share.
-- Regular-rate and overtime treatment for revenue-share payments.
-- Employee versus contractor cleanup.
-- W-9 and 1099-NEC handling for referral partners.
-- Illinois intrastate household goods moving paperwork and tariff compliance.
-- Interstate move authority / FMCSA / U.S. DOT requirements.
-- Supermove customer contract terms, including hold-harmless, limitation-of-liability, valuation, claim, payment, cancellation, and refund language.
-- Insurance, COI, additional insured, and advertised-location implications.
-- Territory reassignment, confidentiality, customer ownership, referral partner ownership, non-solicitation, and customer-information handling language.
-- Cash-flow participation, profit participation, phantom equity, buy-in, ownership, or any other location-level economic structure.
+Bryan Abrego owns the operational setup decisions for Supermove fields, source tags, Supermove-to-QuickBooks verification, collected-revenue reporting, referral payout review, W-9 storage, participant revenue-share payment workflow, and training-record storage unless he delegates those responsibilities in writing.

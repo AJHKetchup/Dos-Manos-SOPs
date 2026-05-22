@@ -1,6 +1,6 @@
 # Dos Manos Moving Accelerated Management Program
 
-Source-of-truth program outline for execution package drafting.
+Governing program outline for the execution package.
 
 ## Program Purpose
 
@@ -50,7 +50,7 @@ Outside hires may be considered, but outside experience does not skip the Operat
 
 The candidate enters the Operator Track before receiving a territory.
 
-In this stage, the candidate is trained and tested on booking jobs, speaking with customers, basic estimating, following pricing guidelines, using Supermove or the approved Dos Manos process, tracking leads, following up with customers, building referral relationships, running jobs in the field, leading crews, protecting the Dos Manos service standard, and reporting weekly activity and results.
+In this stage, the candidate is trained and tested on booking jobs, speaking with customers, basic estimating, following the Dos Manos Pricing Policy, using Supermove or the approved Dos Manos process, tracking leads, following up with customers, building referral relationships, running jobs in the field, leading crews, protecting the Dos Manos service standard, and reporting weekly activity and results.
 
 The candidate does not receive a territory on day one. The first test is whether they can personally bring in, book, and help execute quality Dos Manos work.
 
@@ -78,7 +78,7 @@ A Formal Location should have consistent booked and completed revenue, consisten
 
 ### Stage 6 - General Manager Path
 
-Early General Managers will usually still be working foremen because Dos Manos is still growing and field leadership overlaps with local management.
+Early General Managers will usually still be Working Foremen because Dos Manos is still growing and field leadership overlaps with local management.
 
 As the location grows, the goal is to create a path where the Working Foreman can eventually become a non-laboring General Manager.
 
@@ -102,7 +102,7 @@ In addition, participants may receive 10% of collected revenue on approved jobs.
 
 Normal field pay and program revenue share are separate. A participant may be paid for field work performed even when a job is not eligible for the 10% revenue share.
 
-This is the current program compensation structure. Future compensation arrangements may change based on the participant's stage, role, territory, location maturity, and company policy. Revenue-share payment timing may vary by company process and may use next payroll, month-end, scheduled accounting run, or another Bryan-approved payout cycle. Partially paid jobs, claim issues, refund issues, and unusual payout treatment require Bryan approval.
+This is the current program compensation structure. Future compensation arrangements may change based on the participant's stage, role, territory, location maturity, and company policy. Revenue-share payment timing may vary by company process and may use next payroll, month-end, scheduled accounting run, or another CEO-approved payout cycle. Partially paid jobs, claim issues, refund issues, and unusual payout treatment require Bryan Abrego approval.
 
 ## Lead Tracking and Territory Attribution
 
@@ -114,7 +114,7 @@ At the Territory Operator stage, attribution is based primarily on where the lea
 
 ## Centralized vs. Local Responsibilities
 
-Dos Manos central operations controls brand standards, pricing guidelines, Supermove, dispatch process, billing and collections, insurance, claims oversight, payroll and compensation processing, customer escalation, marketing standards, territory assignment, territory reassignment, job approval standards, compensation policy, legal and administrative documents.
+Dos Manos central operations controls brand standards, the Dos Manos Pricing Policy, Supermove, dispatch process, billing and collections, insurance, claims oversight, payroll and compensation processing, customer escalation, marketing standards, territory assignment, territory reassignment, job approval standards, compensation policy, legal and administrative documents.
 
 The Territory Operator is responsible for helping build local leads, customer relationships, referral partner relationships, approved booked jobs, job execution, crew leadership, customer satisfaction, reviews, weekly reporting, local market knowledge, and local reputation.
 
@@ -145,7 +145,7 @@ Management reviews activity level, booked revenue, collected revenue, job qualit
 
 Dos Manos may pause, remove, or reassign a participant or territory if the participant fails to meet company standards.
 
-Reasons include poor customer communication, repeated job quality issues, failure to follow pricing guidelines, failure to use Supermove or other approved processes, failure to track leads properly, misrepresentation to customers, unapproved arrangements outside the approved Dos Manos process, poor crew leadership, lack of activity, repeated customer complaints, avoidable damage or claims, conduct that harms the Dos Manos brand, or loss of trust.
+Reasons include poor customer communication, repeated job quality issues, failure to follow the Dos Manos Pricing Policy, failure to use Supermove or other approved processes, failure to track leads properly, misrepresentation to customers, unapproved arrangements outside the approved Dos Manos process, poor crew leadership, lack of activity, repeated customer complaints, avoidable damage or claims, conduct that harms the Dos Manos brand, or loss of trust.
 
 Territories are assigned by Dos Manos and may be modified, paused, reassigned, or discontinued based on performance, market needs, operational capacity, or company judgment.
 
@@ -159,7 +159,7 @@ External message:
 
 Dos Manos gives serious operators a path to grow from field work into local business leadership.
 
-Internal message:
+Management message:
 
 Dos Manos builds future locations by finding strong operators, teaching them how to book and run quality jobs, assigning territories once they prove the basics, and giving the best performers a path toward long-term location-level opportunity.
 
