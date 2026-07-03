@@ -4,6 +4,8 @@ Use `source/Program-Overview.md`, `source/Execution-Package-Plan.md`, `source/Co
 
 Maintain only documents that support a decision, payment, training step, territory launch, performance review, or legal/business control.
 
+Basic business operations drafts live in `basic-operations/`. Keep them separate from the Accelerated Management Program `execution-package/` unless management explicitly approves a merge. They may document file storage, email triage, lead intake, brand/resource usage, and similar operating controls, but they must not create public claims, pricing rules, compensation/referral terms, legal/insurance/ICC positions, or claims outcomes.
+
 Keep language direct, operational, and specific to Dos Manos Moving. Avoid corporate filler and avoid public-facing language that implies guaranteed promotion, guaranteed territory rights, ownership, franchise rights, or automatic cash-flow participation.
 
 When research is needed, prefer primary sources and cite them in the document section where they support a control or review item.

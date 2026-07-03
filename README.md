@@ -33,6 +33,16 @@ The final company document set is in `execution-package/`.
 
 Start with `execution-package/README.md`. It contains the rollout sequence, decision rights, professional review requirements, document status, operating references, and links to each execution document.
 
+## Basic operations drafts
+
+The first internal basic business SOP drafts are in `basic-operations/`.
+
+These drafts cover file storage, email triage, lead intake / quote handoff, and brand / resource usage. They are meant to complement the Accelerated Management Program package, not replace it.
+
+Start with `basic-operations/README.md` and `basic-operations/07-Draft-Review-Packet.md` before using or approving them.
+
+Current status: draft for internal management review. Do not publish externally, change public copy, change money/legal/referral terms, mutate Gmail/Drive/GBP/Supermove/QuickBooks, or treat these drafts as owner-approved until reviewed.
+
 ## Document principle
 
 Do not create paperwork unless it supports a decision, payment, training step, territory launch, performance review, or legal/business control.
